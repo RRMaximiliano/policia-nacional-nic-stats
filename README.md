@@ -47,7 +47,7 @@ data
 ## Descargar los datos
 
 Los datos se encuentran en la carpeta `/data` en formato
-[CSV](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/data.csv).
+[CSV](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv).
 Al acceder el link, deberán darle click derecho “guardar como / save
 as”.
 
