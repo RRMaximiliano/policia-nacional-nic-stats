@@ -1,0 +1,58 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# Estadísticas de la Policia Nacional de Nicaragua
+
+```{r, include = FALSE}
+library(tidyverse)
+
+data <- read.csv("data/stats.csv") %>% as_tibble()
+```
+
+Este repositorio contiene datos extraídos de los reportes de los Anuarios Estadísticos de la Policía Nacional de Nicaragua. 
+
+## Información en la base de datos
+
+Actualmente, los datos en este repositorio contienen información desde el año 1980 al año 2019.
+
+## Variables incluídas en la base de datos
+
+Las siguientes variables se encuentran en este base de datos: 
+
+* `year`: Año.
+* `tipología`: Tipología del crimer cometido. 
+  * e.g., Delitos y faltas contra la vida, Delitos y faltas contra el patrimonio y el orden socioeconómico.
+* `delito`: Tipo del crimer comedito. 
+  * e.g., Asesinatos, Homicidios, etc.
+* `denuncias`: Denuncias.
+* `resueltos`: Casos resueltos.
+
+```{r}
+data
+```
+
+## Descargar los datos
+
+Los datos se encuentran en la carpeta `/data` en formato [CSV](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv). Al acceder el link, deberán darle click derecho "guardar como / save as".
+
+## Caveats
+
+Los datos presentados en este repositorio son datos oficiales de la Policía Nacional de Nicaragua. La función de este repositorio es tener disponible los datos en un formato `tidy`. 
+
+> Notas: Para el caso de Robo con violencia, no se presentan datos de 1980 a 1989.
+
+## Comentarios y sugerencias
+
+Para realizar comentarios o sugerencias sobre la base de datos puedes abrir un issue en este repositorio: [https://github.com/rrmaximiliano/policia-nacional-nic-stats/issues](https://github.com/rrmaximiliano/policia-nacional-nic-stats/issues)
