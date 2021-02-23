@@ -1,0 +1,1405 @@
+departamento,year,variable,cantidad
+Boaco,2007,Denuncias,1062
+Boaco,2007,Homicidios,12
+Boaco,2007,Robos,121
+Boaco,2007,Hurtos,197
+Boaco,2007,Delitos sexuales,76
+Boaco,2007,Lesiones,233
+Boaco,2008,Denuncias,1272
+Boaco,2008,Homicidios,4
+Boaco,2008,Robos,214
+Boaco,2008,Hurtos,167
+Boaco,2008,Delitos sexuales,87
+Boaco,2008,Lesiones,266
+Boaco,2009,Denuncias,1170
+Boaco,2009,Homicidios,8
+Boaco,2009,Robos,194
+Boaco,2009,Hurtos,74
+Boaco,2009,Delitos sexuales,49
+Boaco,2009,Lesiones,149
+Boaco,2010,Denuncias,1347
+Boaco,2010,Homicidios,5
+Boaco,2010,Robos,191
+Boaco,2010,Hurtos,72
+Boaco,2010,Delitos sexuales,50
+Boaco,2010,Lesiones,167
+Boaco,2011,Denuncias,1570
+Boaco,2011,Homicidios,9
+Boaco,2011,Robos,173
+Boaco,2011,Hurtos,95
+Boaco,2011,Delitos sexuales,39
+Boaco,2011,Lesiones,127
+Boaco,2012,Denuncias,1412
+Boaco,2012,Homicidios,6
+Boaco,2012,Robos,137
+Boaco,2012,Hurtos,74
+Boaco,2012,Delitos sexuales,63
+Boaco,2012,Lesiones,116
+Boaco,2013,Denuncias,1363
+Boaco,2013,Homicidios,4
+Boaco,2013,Robos,127
+Boaco,2013,Hurtos,69
+Boaco,2013,Delitos sexuales,65
+Boaco,2013,Lesiones,112
+Boaco,2014,Denuncias,1069
+Boaco,2014,Homicidios,5
+Boaco,2014,Robos,79
+Boaco,2014,Hurtos,45
+Boaco,2014,Delitos sexuales,48
+Boaco,2014,Lesiones,92
+Boaco,2015,Denuncias,1046
+Boaco,2015,Homicidios,2
+Boaco,2015,Robos,93
+Boaco,2015,Hurtos,44
+Boaco,2015,Delitos sexuales,53
+Boaco,2015,Lesiones,98
+Boaco,2016,Denuncias,891
+Boaco,2016,Homicidios,3
+Boaco,2016,Robos,91
+Boaco,2016,Hurtos,46
+Boaco,2016,Delitos sexuales,32
+Boaco,2016,Lesiones,98
+Boaco,2017,Denuncias,693
+Boaco,2017,Homicidios,3
+Boaco,2017,Robos,61
+Boaco,2017,Hurtos,34
+Boaco,2017,Delitos sexuales,33
+Boaco,2017,Lesiones,112
+Boaco,2018,Denuncias,605
+Boaco,2018,Homicidios,6
+Boaco,2018,Robos,69
+Boaco,2018,Hurtos,30
+Boaco,2018,Delitos sexuales,26
+Boaco,2018,Lesiones,103
+Boaco,2019,Denuncias,679
+Boaco,2019,Homicidios,4
+Boaco,2019,Robos,71
+Boaco,2019,Hurtos,29
+Boaco,2019,Delitos sexuales,29
+Boaco,2019,Lesiones,105
+Carazo,2007,Denuncias,3937
+Carazo,2007,Homicidios,5
+Carazo,2007,Robos,807
+Carazo,2007,Hurtos,584
+Carazo,2007,Delitos sexuales,132
+Carazo,2007,Lesiones,273
+Carazo,2008,Denuncias,4423
+Carazo,2008,Homicidios,6
+Carazo,2008,Robos,919
+Carazo,2008,Hurtos,589
+Carazo,2008,Delitos sexuales,105
+Carazo,2008,Lesiones,274
+Carazo,2009,Denuncias,4331
+Carazo,2009,Homicidios,5
+Carazo,2009,Robos,803
+Carazo,2009,Hurtos,470
+Carazo,2009,Delitos sexuales,100
+Carazo,2009,Lesiones,195
+Carazo,2010,Denuncias,3768
+Carazo,2010,Homicidios,5
+Carazo,2010,Robos,557
+Carazo,2010,Hurtos,536
+Carazo,2010,Delitos sexuales,76
+Carazo,2010,Lesiones,182
+Carazo,2011,Denuncias,3740
+Carazo,2011,Homicidios,2
+Carazo,2011,Robos,611
+Carazo,2011,Hurtos,591
+Carazo,2011,Delitos sexuales,98
+Carazo,2011,Lesiones,166
+Carazo,2012,Denuncias,3360
+Carazo,2012,Homicidios,9
+Carazo,2012,Robos,473
+Carazo,2012,Hurtos,401
+Carazo,2012,Delitos sexuales,71
+Carazo,2012,Lesiones,199
+Carazo,2013,Denuncias,2647
+Carazo,2013,Homicidios,5
+Carazo,2013,Robos,344
+Carazo,2013,Hurtos,225
+Carazo,2013,Delitos sexuales,63
+Carazo,2013,Lesiones,198
+Carazo,2014,Denuncias,2613
+Carazo,2014,Homicidios,3
+Carazo,2014,Robos,276
+Carazo,2014,Hurtos,217
+Carazo,2014,Delitos sexuales,63
+Carazo,2014,Lesiones,183
+Carazo,2015,Denuncias,2223
+Carazo,2015,Homicidios,5
+Carazo,2015,Robos,168
+Carazo,2015,Hurtos,246
+Carazo,2015,Delitos sexuales,45
+Carazo,2015,Lesiones,93
+Carazo,2016,Denuncias,2288
+Carazo,2016,Homicidios,4
+Carazo,2016,Robos,155
+Carazo,2016,Hurtos,247
+Carazo,2016,Delitos sexuales,51
+Carazo,2016,Lesiones,78
+Carazo,2017,Denuncias,1868
+Carazo,2017,Homicidios,4
+Carazo,2017,Robos,95
+Carazo,2017,Hurtos,183
+Carazo,2017,Delitos sexuales,26
+Carazo,2017,Lesiones,79
+Carazo,2018,Denuncias,1858
+Carazo,2018,Homicidios,16
+Carazo,2018,Robos,179
+Carazo,2018,Hurtos,162
+Carazo,2018,Delitos sexuales,39
+Carazo,2018,Lesiones,77
+Carazo,2019,Denuncias,2185
+Carazo,2019,Homicidios,3
+Carazo,2019,Robos,262
+Carazo,2019,Hurtos,150
+Carazo,2019,Delitos sexuales,38
+Carazo,2019,Lesiones,63
+Chinandega,2007,Denuncias,2242
+Chinandega,2007,Homicidios,7
+Chinandega,2007,Robos,408
+Chinandega,2007,Hurtos,441
+Chinandega,2007,Delitos sexuales,86
+Chinandega,2007,Lesiones,190
+Chinandega,2008,Denuncias,2040
+Chinandega,2008,Homicidios,8
+Chinandega,2008,Robos,421
+Chinandega,2008,Hurtos,326
+Chinandega,2008,Delitos sexuales,74
+Chinandega,2008,Lesiones,175
+Chinandega,2009,Denuncias,2094
+Chinandega,2009,Homicidios,7
+Chinandega,2009,Robos,408
+Chinandega,2009,Hurtos,185
+Chinandega,2009,Delitos sexuales,65
+Chinandega,2009,Lesiones,145
+Chinandega,2010,Denuncias,1712
+Chinandega,2010,Homicidios,7
+Chinandega,2010,Robos,306
+Chinandega,2010,Hurtos,124
+Chinandega,2010,Delitos sexuales,58
+Chinandega,2010,Lesiones,134
+Chinandega,2011,Denuncias,1520
+Chinandega,2011,Homicidios,6
+Chinandega,2011,Robos,245
+Chinandega,2011,Hurtos,88
+Chinandega,2011,Delitos sexuales,52
+Chinandega,2011,Lesiones,132
+Chinandega,2012,Denuncias,1482
+Chinandega,2012,Homicidios,6
+Chinandega,2012,Robos,213
+Chinandega,2012,Hurtos,84
+Chinandega,2012,Delitos sexuales,63
+Chinandega,2012,Lesiones,131
+Chinandega,2013,Denuncias,1252
+Chinandega,2013,Homicidios,6
+Chinandega,2013,Robos,151
+Chinandega,2013,Hurtos,99
+Chinandega,2013,Delitos sexuales,62
+Chinandega,2013,Lesiones,93
+Chinandega,2014,Denuncias,1180
+Chinandega,2014,Homicidios,5
+Chinandega,2014,Robos,139
+Chinandega,2014,Hurtos,72
+Chinandega,2014,Delitos sexuales,56
+Chinandega,2014,Lesiones,78
+Chinandega,2015,Denuncias,917
+Chinandega,2015,Homicidios,5
+Chinandega,2015,Robos,97
+Chinandega,2015,Hurtos,55
+Chinandega,2015,Delitos sexuales,35
+Chinandega,2015,Lesiones,63
+Chinandega,2016,Denuncias,877
+Chinandega,2016,Homicidios,4
+Chinandega,2016,Robos,110
+Chinandega,2016,Hurtos,56
+Chinandega,2016,Delitos sexuales,41
+Chinandega,2016,Lesiones,56
+Chinandega,2017,Denuncias,811
+Chinandega,2017,Homicidios,4
+Chinandega,2017,Robos,105
+Chinandega,2017,Hurtos,53
+Chinandega,2017,Delitos sexuales,33
+Chinandega,2017,Lesiones,40
+Chinandega,2018,Denuncias,650
+Chinandega,2018,Homicidios,6
+Chinandega,2018,Robos,87
+Chinandega,2018,Hurtos,29
+Chinandega,2018,Delitos sexuales,22
+Chinandega,2018,Lesiones,27
+Chinandega,2019,Denuncias,699
+Chinandega,2019,Homicidios,4
+Chinandega,2019,Robos,106
+Chinandega,2019,Hurtos,44
+Chinandega,2019,Delitos sexuales,23
+Chinandega,2019,Lesiones,30
+Chontales,2007,Denuncias,1796
+Chontales,2007,Homicidios,23
+Chontales,2007,Robos,279
+Chontales,2007,Hurtos,248
+Chontales,2007,Delitos sexuales,103
+Chontales,2007,Lesiones,207
+Chontales,2008,Denuncias,1742
+Chontales,2008,Homicidios,15
+Chontales,2008,Robos,395
+Chontales,2008,Hurtos,200
+Chontales,2008,Delitos sexuales,74
+Chontales,2008,Lesiones,147
+Chontales,2009,Denuncias,1932
+Chontales,2009,Homicidios,13
+Chontales,2009,Robos,314
+Chontales,2009,Hurtos,161
+Chontales,2009,Delitos sexuales,73
+Chontales,2009,Lesiones,140
+Chontales,2010,Denuncias,2041
+Chontales,2010,Homicidios,14
+Chontales,2010,Robos,296
+Chontales,2010,Hurtos,119
+Chontales,2010,Delitos sexuales,58
+Chontales,2010,Lesiones,130
+Chontales,2011,Denuncias,1782
+Chontales,2011,Homicidios,7
+Chontales,2011,Robos,189
+Chontales,2011,Hurtos,84
+Chontales,2011,Delitos sexuales,50
+Chontales,2011,Lesiones,114
+Chontales,2012,Denuncias,1579
+Chontales,2012,Homicidios,9
+Chontales,2012,Robos,158
+Chontales,2012,Hurtos,62
+Chontales,2012,Delitos sexuales,59
+Chontales,2012,Lesiones,124
+Chontales,2013,Denuncias,1377
+Chontales,2013,Homicidios,8
+Chontales,2013,Robos,145
+Chontales,2013,Hurtos,51
+Chontales,2013,Delitos sexuales,57
+Chontales,2013,Lesiones,105
+Chontales,2014,Denuncias,1302
+Chontales,2014,Homicidios,8
+Chontales,2014,Robos,143
+Chontales,2014,Hurtos,76
+Chontales,2014,Delitos sexuales,45
+Chontales,2014,Lesiones,79
+Chontales,2015,Denuncias,1294
+Chontales,2015,Homicidios,9
+Chontales,2015,Robos,154
+Chontales,2015,Hurtos,51
+Chontales,2015,Delitos sexuales,51
+Chontales,2015,Lesiones,74
+Chontales,2016,Denuncias,1274
+Chontales,2016,Homicidios,6
+Chontales,2016,Robos,129
+Chontales,2016,Hurtos,50
+Chontales,2016,Delitos sexuales,29
+Chontales,2016,Lesiones,65
+Chontales,2017,Denuncias,1278
+Chontales,2017,Homicidios,3
+Chontales,2017,Robos,147
+Chontales,2017,Hurtos,44
+Chontales,2017,Delitos sexuales,24
+Chontales,2017,Lesiones,69
+Chontales,2018,Denuncias,1090
+Chontales,2018,Homicidios,9
+Chontales,2018,Robos,141
+Chontales,2018,Hurtos,52
+Chontales,2018,Delitos sexuales,26
+Chontales,2018,Lesiones,83
+Chontales,2019,Denuncias,1330
+Chontales,2019,Homicidios,4
+Chontales,2019,Robos,155
+Chontales,2019,Hurtos,55
+Chontales,2019,Delitos sexuales,28
+Chontales,2019,Lesiones,66
+Estelí,2007,Denuncias,2197
+Estelí,2007,Homicidios,6
+Estelí,2007,Robos,428
+Estelí,2007,Hurtos,334
+Estelí,2007,Delitos sexuales,66
+Estelí,2007,Lesiones,318
+Estelí,2008,Denuncias,2127
+Estelí,2008,Homicidios,8
+Estelí,2008,Robos,346
+Estelí,2008,Hurtos,286
+Estelí,2008,Delitos sexuales,47
+Estelí,2008,Lesiones,288
+Estelí,2009,Denuncias,2994
+Estelí,2009,Homicidios,7
+Estelí,2009,Robos,425
+Estelí,2009,Hurtos,218
+Estelí,2009,Delitos sexuales,69
+Estelí,2009,Lesiones,248
+Estelí,2010,Denuncias,2896
+Estelí,2010,Homicidios,5
+Estelí,2010,Robos,350
+Estelí,2010,Hurtos,151
+Estelí,2010,Delitos sexuales,39
+Estelí,2010,Lesiones,179
+Estelí,2011,Denuncias,2782
+Estelí,2011,Homicidios,6
+Estelí,2011,Robos,325
+Estelí,2011,Hurtos,173
+Estelí,2011,Delitos sexuales,50
+Estelí,2011,Lesiones,160
+Estelí,2012,Denuncias,2220
+Estelí,2012,Homicidios,8
+Estelí,2012,Robos,204
+Estelí,2012,Hurtos,117
+Estelí,2012,Delitos sexuales,42
+Estelí,2012,Lesiones,151
+Estelí,2013,Denuncias,2044
+Estelí,2013,Homicidios,5
+Estelí,2013,Robos,168
+Estelí,2013,Hurtos,102
+Estelí,2013,Delitos sexuales,28
+Estelí,2013,Lesiones,129
+Estelí,2014,Denuncias,1984
+Estelí,2014,Homicidios,6
+Estelí,2014,Robos,146
+Estelí,2014,Hurtos,71
+Estelí,2014,Delitos sexuales,30
+Estelí,2014,Lesiones,119
+Estelí,2015,Denuncias,1817
+Estelí,2015,Homicidios,5
+Estelí,2015,Robos,156
+Estelí,2015,Hurtos,62
+Estelí,2015,Delitos sexuales,30
+Estelí,2015,Lesiones,78
+Estelí,2016,Denuncias,2070
+Estelí,2016,Homicidios,3
+Estelí,2016,Robos,206
+Estelí,2016,Hurtos,87
+Estelí,2016,Delitos sexuales,27
+Estelí,2016,Lesiones,77
+Estelí,2017,Denuncias,1971
+Estelí,2017,Homicidios,2
+Estelí,2017,Robos,175
+Estelí,2017,Hurtos,93
+Estelí,2017,Delitos sexuales,28
+Estelí,2017,Lesiones,76
+Estelí,2018,Denuncias,2349
+Estelí,2018,Homicidios,11
+Estelí,2018,Robos,195
+Estelí,2018,Hurtos,108
+Estelí,2018,Delitos sexuales,19
+Estelí,2018,Lesiones,68
+Estelí,2019,Denuncias,2526
+Estelí,2019,Homicidios,6
+Estelí,2019,Robos,159
+Estelí,2019,Hurtos,96
+Estelí,2019,Delitos sexuales,10
+Estelí,2019,Lesiones,57
+Granada,2007,Denuncias,3201
+Granada,2007,Homicidios,6
+Granada,2007,Robos,622
+Granada,2007,Hurtos,667
+Granada,2007,Delitos sexuales,100
+Granada,2007,Lesiones,328
+Granada,2008,Denuncias,3896
+Granada,2008,Homicidios,10
+Granada,2008,Robos,730
+Granada,2008,Hurtos,803
+Granada,2008,Delitos sexuales,99
+Granada,2008,Lesiones,454
+Granada,2009,Denuncias,4024
+Granada,2009,Homicidios,11
+Granada,2009,Robos,679
+Granada,2009,Hurtos,201
+Granada,2009,Delitos sexuales,51
+Granada,2009,Lesiones,198
+Granada,2010,Denuncias,3918
+Granada,2010,Homicidios,3
+Granada,2010,Robos,609
+Granada,2010,Hurtos,193
+Granada,2010,Delitos sexuales,64
+Granada,2010,Lesiones,246
+Granada,2011,Denuncias,3863
+Granada,2011,Homicidios,6
+Granada,2011,Robos,588
+Granada,2011,Hurtos,185
+Granada,2011,Delitos sexuales,51
+Granada,2011,Lesiones,255
+Granada,2012,Denuncias,3776
+Granada,2012,Homicidios,4
+Granada,2012,Robos,471
+Granada,2012,Hurtos,157
+Granada,2012,Delitos sexuales,71
+Granada,2012,Lesiones,237
+Granada,2013,Denuncias,3453
+Granada,2013,Homicidios,6
+Granada,2013,Robos,407
+Granada,2013,Hurtos,103
+Granada,2013,Delitos sexuales,80
+Granada,2013,Lesiones,208
+Granada,2014,Denuncias,2789
+Granada,2014,Homicidios,5
+Granada,2014,Robos,335
+Granada,2014,Hurtos,76
+Granada,2014,Delitos sexuales,69
+Granada,2014,Lesiones,249
+Granada,2015,Denuncias,1918
+Granada,2015,Homicidios,7
+Granada,2015,Robos,244
+Granada,2015,Hurtos,61
+Granada,2015,Delitos sexuales,51
+Granada,2015,Lesiones,176
+Granada,2016,Denuncias,2419
+Granada,2016,Homicidios,5
+Granada,2016,Robos,284
+Granada,2016,Hurtos,58
+Granada,2016,Delitos sexuales,49
+Granada,2016,Lesiones,171
+Granada,2017,Denuncias,1841
+Granada,2017,Homicidios,3
+Granada,2017,Robos,199
+Granada,2017,Hurtos,44
+Granada,2017,Delitos sexuales,53
+Granada,2017,Lesiones,97
+Granada,2018,Denuncias,1526
+Granada,2018,Homicidios,2
+Granada,2018,Robos,134
+Granada,2018,Hurtos,30
+Granada,2018,Delitos sexuales,43
+Granada,2018,Lesiones,54
+Granada,2019,Denuncias,1569
+Granada,2019,Homicidios,3
+Granada,2019,Robos,101
+Granada,2019,Hurtos,23
+Granada,2019,Delitos sexuales,37
+Granada,2019,Lesiones,56
+Jinotega,2007,Denuncias,1051
+Jinotega,2007,Homicidios,16
+Jinotega,2007,Robos,135
+Jinotega,2007,Hurtos,114
+Jinotega,2007,Delitos sexuales,82
+Jinotega,2007,Lesiones,118
+Jinotega,2008,Denuncias,1109
+Jinotega,2008,Homicidios,17
+Jinotega,2008,Robos,152
+Jinotega,2008,Hurtos,98
+Jinotega,2008,Delitos sexuales,70
+Jinotega,2008,Lesiones,108
+Jinotega,2009,Denuncias,1006
+Jinotega,2009,Homicidios,19
+Jinotega,2009,Robos,153
+Jinotega,2009,Hurtos,53
+Jinotega,2009,Delitos sexuales,38
+Jinotega,2009,Lesiones,77
+Jinotega,2010,Denuncias,843
+Jinotega,2010,Homicidios,20
+Jinotega,2010,Robos,132
+Jinotega,2010,Hurtos,45
+Jinotega,2010,Delitos sexuales,32
+Jinotega,2010,Lesiones,79
+Jinotega,2011,Denuncias,867
+Jinotega,2011,Homicidios,21
+Jinotega,2011,Robos,125
+Jinotega,2011,Hurtos,50
+Jinotega,2011,Delitos sexuales,40
+Jinotega,2011,Lesiones,92
+Jinotega,2012,Denuncias,995
+Jinotega,2012,Homicidios,20
+Jinotega,2012,Robos,132
+Jinotega,2012,Hurtos,42
+Jinotega,2012,Delitos sexuales,47
+Jinotega,2012,Lesiones,73
+Jinotega,2013,Denuncias,819
+Jinotega,2013,Homicidios,16
+Jinotega,2013,Robos,82
+Jinotega,2013,Hurtos,27
+Jinotega,2013,Delitos sexuales,39
+Jinotega,2013,Lesiones,50
+Jinotega,2014,Denuncias,798
+Jinotega,2014,Homicidios,14
+Jinotega,2014,Robos,63
+Jinotega,2014,Hurtos,22
+Jinotega,2014,Delitos sexuales,42
+Jinotega,2014,Lesiones,49
+Jinotega,2015,Denuncias,583
+Jinotega,2015,Homicidios,13
+Jinotega,2015,Robos,40
+Jinotega,2015,Hurtos,17
+Jinotega,2015,Delitos sexuales,26
+Jinotega,2015,Lesiones,26
+Jinotega,2016,Denuncias,513
+Jinotega,2016,Homicidios,11
+Jinotega,2016,Robos,45
+Jinotega,2016,Hurtos,16
+Jinotega,2016,Delitos sexuales,23
+Jinotega,2016,Lesiones,28
+Jinotega,2017,Denuncias,536
+Jinotega,2017,Homicidios,13
+Jinotega,2017,Robos,56
+Jinotega,2017,Hurtos,16
+Jinotega,2017,Delitos sexuales,21
+Jinotega,2017,Lesiones,28
+Jinotega,2018,Denuncias,397
+Jinotega,2018,Homicidios,16
+Jinotega,2018,Robos,47
+Jinotega,2018,Hurtos,12
+Jinotega,2018,Delitos sexuales,18
+Jinotega,2018,Lesiones,21
+Jinotega,2019,Denuncias,396
+Jinotega,2019,Homicidios,18
+Jinotega,2019,Robos,52
+Jinotega,2019,Hurtos,11
+Jinotega,2019,Delitos sexuales,18
+Jinotega,2019,Lesiones,23
+León,2007,Denuncias,1858
+León,2007,Homicidios,5
+León,2007,Robos,347
+León,2007,Hurtos,305
+León,2007,Delitos sexuales,62
+León,2007,Lesiones,153
+León,2008,Denuncias,1990
+León,2008,Homicidios,6
+León,2008,Robos,410
+León,2008,Hurtos,316
+León,2008,Delitos sexuales,59
+León,2008,Lesiones,170
+León,2009,Denuncias,1813
+León,2009,Homicidios,7
+León,2009,Robos,337
+León,2009,Hurtos,106
+León,2009,Delitos sexuales,43
+León,2009,Lesiones,144
+León,2010,Denuncias,2074
+León,2010,Homicidios,4
+León,2010,Robos,274
+León,2010,Hurtos,101
+León,2010,Delitos sexuales,50
+León,2010,Lesiones,134
+León,2011,Denuncias,1993
+León,2011,Homicidios,4
+León,2011,Robos,192
+León,2011,Hurtos,92
+León,2011,Delitos sexuales,55
+León,2011,Lesiones,131
+León,2012,Denuncias,1722
+León,2012,Homicidios,4
+León,2012,Robos,167
+León,2012,Hurtos,68
+León,2012,Delitos sexuales,49
+León,2012,Lesiones,165
+León,2013,Denuncias,1632
+León,2013,Homicidios,4
+León,2013,Robos,147
+León,2013,Hurtos,56
+León,2013,Delitos sexuales,58
+León,2013,Lesiones,124
+León,2014,Denuncias,1467
+León,2014,Homicidios,4
+León,2014,Robos,125
+León,2014,Hurtos,52
+León,2014,Delitos sexuales,53
+León,2014,Lesiones,138
+León,2015,Denuncias,1264
+León,2015,Homicidios,4
+León,2015,Robos,116
+León,2015,Hurtos,54
+León,2015,Delitos sexuales,38
+León,2015,Lesiones,98
+León,2016,Denuncias,1113
+León,2016,Homicidios,3
+León,2016,Robos,156
+León,2016,Hurtos,45
+León,2016,Delitos sexuales,31
+León,2016,Lesiones,101
+León,2017,Denuncias,795
+León,2017,Homicidios,2
+León,2017,Robos,112
+León,2017,Hurtos,45
+León,2017,Delitos sexuales,29
+León,2017,Lesiones,77
+León,2018,Denuncias,510
+León,2018,Homicidios,5
+León,2018,Robos,88
+León,2018,Hurtos,25
+León,2018,Delitos sexuales,20
+León,2018,Lesiones,52
+León,2019,Denuncias,1155
+León,2019,Homicidios,2
+León,2019,Robos,137
+León,2019,Hurtos,60
+León,2019,Delitos sexuales,25
+León,2019,Lesiones,58
+Madriz,2007,Denuncias,1696
+Madriz,2007,Homicidios,6
+Madriz,2007,Robos,172
+Madriz,2007,Hurtos,341
+Madriz,2007,Delitos sexuales,113
+Madriz,2007,Lesiones,208
+Madriz,2008,Denuncias,1450
+Madriz,2008,Homicidios,2
+Madriz,2008,Robos,175
+Madriz,2008,Hurtos,168
+Madriz,2008,Delitos sexuales,81
+Madriz,2008,Lesiones,140
+Madriz,2009,Denuncias,1524
+Madriz,2009,Homicidios,8
+Madriz,2009,Robos,145
+Madriz,2009,Hurtos,56
+Madriz,2009,Delitos sexuales,61
+Madriz,2009,Lesiones,123
+Madriz,2010,Denuncias,1381
+Madriz,2010,Homicidios,4
+Madriz,2010,Robos,115
+Madriz,2010,Hurtos,51
+Madriz,2010,Delitos sexuales,43
+Madriz,2010,Lesiones,112
+Madriz,2011,Denuncias,1401
+Madriz,2011,Homicidios,3
+Madriz,2011,Robos,80
+Madriz,2011,Hurtos,39
+Madriz,2011,Delitos sexuales,44
+Madriz,2011,Lesiones,118
+Madriz,2012,Denuncias,1269
+Madriz,2012,Homicidios,3
+Madriz,2012,Robos,37
+Madriz,2012,Hurtos,25
+Madriz,2012,Delitos sexuales,58
+Madriz,2012,Lesiones,85
+Madriz,2013,Denuncias,1072
+Madriz,2013,Homicidios,3
+Madriz,2013,Robos,35
+Madriz,2013,Hurtos,15
+Madriz,2013,Delitos sexuales,43
+Madriz,2013,Lesiones,75
+Madriz,2014,Denuncias,1027
+Madriz,2014,Homicidios,3
+Madriz,2014,Robos,28
+Madriz,2014,Hurtos,15
+Madriz,2014,Delitos sexuales,39
+Madriz,2014,Lesiones,59
+Madriz,2015,Denuncias,835
+Madriz,2015,Homicidios,5
+Madriz,2015,Robos,32
+Madriz,2015,Hurtos,16
+Madriz,2015,Delitos sexuales,42
+Madriz,2015,Lesiones,60
+Madriz,2016,Denuncias,673
+Madriz,2016,Homicidios,2
+Madriz,2016,Robos,51
+Madriz,2016,Hurtos,7
+Madriz,2016,Delitos sexuales,32
+Madriz,2016,Lesiones,52
+Madriz,2017,Denuncias,540
+Madriz,2017,Homicidios,2
+Madriz,2017,Robos,53
+Madriz,2017,Hurtos,7
+Madriz,2017,Delitos sexuales,28
+Madriz,2017,Lesiones,57
+Madriz,2018,Denuncias,604
+Madriz,2018,Homicidios,4
+Madriz,2018,Robos,50
+Madriz,2018,Hurtos,12
+Madriz,2018,Delitos sexuales,26
+Madriz,2018,Lesiones,55
+Madriz,2019,Denuncias,1049
+Madriz,2019,Homicidios,2
+Madriz,2019,Robos,54
+Madriz,2019,Hurtos,25
+Madriz,2019,Delitos sexuales,15
+Madriz,2019,Lesiones,49
+Managua,2007,Denuncias,3964
+Managua,2007,Homicidios,13
+Managua,2007,Robos,1024
+Managua,2007,Hurtos,555
+Managua,2007,Delitos sexuales,82
+Managua,2007,Lesiones,586
+Managua,2008,Denuncias,4801
+Managua,2008,Homicidios,16
+Managua,2008,Robos,1312
+Managua,2008,Hurtos,585
+Managua,2008,Delitos sexuales,88
+Managua,2008,Lesiones,612
+Managua,2009,Denuncias,5167
+Managua,2009,Homicidios,16
+Managua,2009,Robos,1259
+Managua,2009,Hurtos,444
+Managua,2009,Delitos sexuales,79
+Managua,2009,Lesiones,425
+Managua,2010,Denuncias,4868
+Managua,2010,Homicidios,17
+Managua,2010,Robos,1079
+Managua,2010,Hurtos,299
+Managua,2010,Delitos sexuales,63
+Managua,2010,Lesiones,307
+Managua,2011,Denuncias,4402
+Managua,2011,Homicidios,14
+Managua,2011,Robos,827
+Managua,2011,Hurtos,259
+Managua,2011,Delitos sexuales,60
+Managua,2011,Lesiones,227
+Managua,2012,Denuncias,3722
+Managua,2012,Homicidios,10
+Managua,2012,Robos,525
+Managua,2012,Hurtos,173
+Managua,2012,Delitos sexuales,58
+Managua,2012,Lesiones,185
+Managua,2013,Denuncias,3401
+Managua,2013,Homicidios,9
+Managua,2013,Robos,472
+Managua,2013,Hurtos,158
+Managua,2013,Delitos sexuales,71
+Managua,2013,Lesiones,175
+Managua,2014,Denuncias,2928
+Managua,2014,Homicidios,7
+Managua,2014,Robos,337
+Managua,2014,Hurtos,108
+Managua,2014,Delitos sexuales,62
+Managua,2014,Lesiones,159
+Managua,2015,Denuncias,2407
+Managua,2015,Homicidios,7
+Managua,2015,Robos,289
+Managua,2015,Hurtos,91
+Managua,2015,Delitos sexuales,51
+Managua,2015,Lesiones,111
+Managua,2016,Denuncias,2566
+Managua,2016,Homicidios,5
+Managua,2016,Robos,340
+Managua,2016,Hurtos,81
+Managua,2016,Delitos sexuales,49
+Managua,2016,Lesiones,86
+Managua,2017,Denuncias,1921
+Managua,2017,Homicidios,4
+Managua,2017,Robos,264
+Managua,2017,Hurtos,66
+Managua,2017,Delitos sexuales,38
+Managua,2017,Lesiones,63
+Managua,2018,Denuncias,1623
+Managua,2018,Homicidios,12
+Managua,2018,Robos,244
+Managua,2018,Hurtos,51
+Managua,2018,Delitos sexuales,21
+Managua,2018,Lesiones,50
+Managua,2019,Denuncias,2799
+Managua,2019,Homicidios,6
+Managua,2019,Robos,401
+Managua,2019,Hurtos,103
+Managua,2019,Delitos sexuales,37
+Managua,2019,Lesiones,67
+Masaya,2007,Denuncias,2083
+Masaya,2007,Homicidios,5
+Masaya,2007,Robos,288
+Masaya,2007,Hurtos,250
+Masaya,2007,Delitos sexuales,77
+Masaya,2007,Lesiones,357
+Masaya,2008,Denuncias,1771
+Masaya,2008,Homicidios,7
+Masaya,2008,Robos,225
+Masaya,2008,Hurtos,149
+Masaya,2008,Delitos sexuales,68
+Masaya,2008,Lesiones,279
+Masaya,2009,Denuncias,1720
+Masaya,2009,Homicidios,3
+Masaya,2009,Robos,191
+Masaya,2009,Hurtos,67
+Masaya,2009,Delitos sexuales,56
+Masaya,2009,Lesiones,192
+Masaya,2010,Denuncias,1967
+Masaya,2010,Homicidios,6
+Masaya,2010,Robos,293
+Masaya,2010,Hurtos,97
+Masaya,2010,Delitos sexuales,53
+Masaya,2010,Lesiones,189
+Masaya,2011,Denuncias,1495
+Masaya,2011,Homicidios,5
+Masaya,2011,Robos,223
+Masaya,2011,Hurtos,54
+Masaya,2011,Delitos sexuales,50
+Masaya,2011,Lesiones,175
+Masaya,2012,Denuncias,1106
+Masaya,2012,Homicidios,3
+Masaya,2012,Robos,153
+Masaya,2012,Hurtos,42
+Masaya,2012,Delitos sexuales,43
+Masaya,2012,Lesiones,123
+Masaya,2013,Denuncias,1101
+Masaya,2013,Homicidios,2
+Masaya,2013,Robos,145
+Masaya,2013,Hurtos,30
+Masaya,2013,Delitos sexuales,41
+Masaya,2013,Lesiones,139
+Masaya,2014,Denuncias,1221
+Masaya,2014,Homicidios,3
+Masaya,2014,Robos,141
+Masaya,2014,Hurtos,61
+Masaya,2014,Delitos sexuales,46
+Masaya,2014,Lesiones,136
+Masaya,2015,Denuncias,1301
+Masaya,2015,Homicidios,3
+Masaya,2015,Robos,122
+Masaya,2015,Hurtos,30
+Masaya,2015,Delitos sexuales,37
+Masaya,2015,Lesiones,74
+Masaya,2016,Denuncias,1662
+Masaya,2016,Homicidios,2
+Masaya,2016,Robos,105
+Masaya,2016,Hurtos,26
+Masaya,2016,Delitos sexuales,37
+Masaya,2016,Lesiones,68
+Masaya,2017,Denuncias,1435
+Masaya,2017,Homicidios,3
+Masaya,2017,Robos,88
+Masaya,2017,Hurtos,25
+Masaya,2017,Delitos sexuales,34
+Masaya,2017,Lesiones,59
+Masaya,2018,Denuncias,1068
+Masaya,2018,Homicidios,9
+Masaya,2018,Robos,61
+Masaya,2018,Hurtos,17
+Masaya,2018,Delitos sexuales,25
+Masaya,2018,Lesiones,22
+Masaya,2019,Denuncias,1503
+Masaya,2019,Homicidios,3
+Masaya,2019,Robos,112
+Masaya,2019,Hurtos,26
+Masaya,2019,Delitos sexuales,33
+Masaya,2019,Lesiones,30
+Matagalpa,2007,Denuncias,2101
+Matagalpa,2007,Homicidios,14
+Matagalpa,2007,Robos,284
+Matagalpa,2007,Hurtos,241
+Matagalpa,2007,Delitos sexuales,83
+Matagalpa,2007,Lesiones,294
+Matagalpa,2008,Denuncias,2220
+Matagalpa,2008,Homicidios,16
+Matagalpa,2008,Robos,320
+Matagalpa,2008,Hurtos,216
+Matagalpa,2008,Delitos sexuales,95
+Matagalpa,2008,Lesiones,244
+Matagalpa,2009,Denuncias,2171
+Matagalpa,2009,Homicidios,16
+Matagalpa,2009,Robos,303
+Matagalpa,2009,Hurtos,112
+Matagalpa,2009,Delitos sexuales,75
+Matagalpa,2009,Lesiones,180
+Matagalpa,2010,Denuncias,2089
+Matagalpa,2010,Homicidios,15
+Matagalpa,2010,Robos,244
+Matagalpa,2010,Hurtos,87
+Matagalpa,2010,Delitos sexuales,55
+Matagalpa,2010,Lesiones,137
+Matagalpa,2011,Denuncias,2000
+Matagalpa,2011,Homicidios,14
+Matagalpa,2011,Robos,195
+Matagalpa,2011,Hurtos,80
+Matagalpa,2011,Delitos sexuales,53
+Matagalpa,2011,Lesiones,163
+Matagalpa,2012,Denuncias,1839
+Matagalpa,2012,Homicidios,12
+Matagalpa,2012,Robos,164
+Matagalpa,2012,Hurtos,63
+Matagalpa,2012,Delitos sexuales,42
+Matagalpa,2012,Lesiones,133
+Matagalpa,2013,Denuncias,1672
+Matagalpa,2013,Homicidios,10
+Matagalpa,2013,Robos,154
+Matagalpa,2013,Hurtos,66
+Matagalpa,2013,Delitos sexuales,48
+Matagalpa,2013,Lesiones,105
+Matagalpa,2014,Denuncias,1504
+Matagalpa,2014,Homicidios,12
+Matagalpa,2014,Robos,118
+Matagalpa,2014,Hurtos,45
+Matagalpa,2014,Delitos sexuales,51
+Matagalpa,2014,Lesiones,88
+Matagalpa,2015,Denuncias,1268
+Matagalpa,2015,Homicidios,9
+Matagalpa,2015,Robos,109
+Matagalpa,2015,Hurtos,45
+Matagalpa,2015,Delitos sexuales,30
+Matagalpa,2015,Lesiones,60
+Matagalpa,2016,Denuncias,1370
+Matagalpa,2016,Homicidios,13
+Matagalpa,2016,Robos,132
+Matagalpa,2016,Hurtos,44
+Matagalpa,2016,Delitos sexuales,28
+Matagalpa,2016,Lesiones,56
+Matagalpa,2017,Denuncias,1154
+Matagalpa,2017,Homicidios,8
+Matagalpa,2017,Robos,114
+Matagalpa,2017,Hurtos,27
+Matagalpa,2017,Delitos sexuales,30
+Matagalpa,2017,Lesiones,54
+Matagalpa,2018,Denuncias,960
+Matagalpa,2018,Homicidios,13
+Matagalpa,2018,Robos,117
+Matagalpa,2018,Hurtos,26
+Matagalpa,2018,Delitos sexuales,20
+Matagalpa,2018,Lesiones,36
+Matagalpa,2019,Denuncias,1087
+Matagalpa,2019,Homicidios,8
+Matagalpa,2019,Robos,84
+Matagalpa,2019,Hurtos,18
+Matagalpa,2019,Delitos sexuales,18
+Matagalpa,2019,Lesiones,33
+Nacional,2007,Denuncias,2458
+Nacional,2007,Homicidios,13
+Nacional,2007,Robos,491
+Nacional,2007,Hurtos,368
+Nacional,2007,Delitos sexuales,86
+Nacional,2007,Lesiones,331
+Nacional,2008,Denuncias,2728
+Nacional,2008,Homicidios,13
+Nacional,2008,Robos,591
+Nacional,2008,Hurtos,351
+Nacional,2008,Delitos sexuales,84
+Nacional,2008,Lesiones,323
+Nacional,2009,Denuncias,2871
+Nacional,2009,Homicidios,13
+Nacional,2009,Robos,565
+Nacional,2009,Hurtos,222
+Nacional,2009,Delitos sexuales,72
+Nacional,2009,Lesiones,233
+Nacional,2010,Denuncias,2781
+Nacional,2010,Homicidios,13
+Nacional,2010,Robos,489
+Nacional,2010,Hurtos,180
+Nacional,2010,Delitos sexuales,62
+Nacional,2010,Lesiones,196
+Nacional,2011,Denuncias,2569
+Nacional,2011,Homicidios,12
+Nacional,2011,Robos,390
+Nacional,2011,Hurtos,161
+Nacional,2011,Delitos sexuales,61
+Nacional,2011,Lesiones,171
+Nacional,2012,Denuncias,2288
+Nacional,2012,Homicidios,11
+Nacional,2012,Robos,285
+Nacional,2012,Hurtos,120
+Nacional,2012,Delitos sexuales,60
+Nacional,2012,Lesiones,151
+Nacional,2013,Denuncias,2066
+Nacional,2013,Homicidios,9
+Nacional,2013,Robos,248
+Nacional,2013,Hurtos,102
+Nacional,2013,Delitos sexuales,63
+Nacional,2013,Lesiones,131
+Nacional,2014,Denuncias,1818
+Nacional,2014,Homicidios,8
+Nacional,2014,Robos,192
+Nacional,2014,Hurtos,81
+Nacional,2014,Delitos sexuales,57
+Nacional,2014,Lesiones,118
+Nacional,2015,Denuncias,1520
+Nacional,2015,Homicidios,8
+Nacional,2015,Robos,162
+Nacional,2015,Hurtos,69
+Nacional,2015,Delitos sexuales,45
+Nacional,2015,Lesiones,87
+Nacional,2016,Denuncias,1553
+Nacional,2016,Homicidios,7
+Nacional,2016,Robos,178
+Nacional,2016,Hurtos,63
+Nacional,2016,Delitos sexuales,41
+Nacional,2016,Lesiones,77
+Nacional,2017,Denuncias,1267
+Nacional,2017,Homicidios,7
+Nacional,2017,Robos,148
+Nacional,2017,Hurtos,54
+Nacional,2017,Delitos sexuales,35
+Nacional,2017,Lesiones,64
+Nacional,2018,Denuncias,1104
+Nacional,2018,Homicidios,11
+Nacional,2018,Robos,139
+Nacional,2018,Hurtos,45
+Nacional,2018,Delitos sexuales,25
+Nacional,2018,Lesiones,51
+Nacional,2019,Denuncias,1513
+Nacional,2019,Homicidios,8
+Nacional,2019,Robos,177
+Nacional,2019,Hurtos,59
+Nacional,2019,Delitos sexuales,28
+Nacional,2019,Lesiones,53
+Nueva Segovia,2007,Denuncias,1007
+Nueva Segovia,2007,Homicidios,8
+Nueva Segovia,2007,Robos,180
+Nueva Segovia,2007,Hurtos,100
+Nueva Segovia,2007,Delitos sexuales,57
+Nueva Segovia,2007,Lesiones,153
+Nueva Segovia,2008,Denuncias,975
+Nueva Segovia,2008,Homicidios,6
+Nueva Segovia,2008,Robos,185
+Nueva Segovia,2008,Hurtos,69
+Nueva Segovia,2008,Delitos sexuales,59
+Nueva Segovia,2008,Lesiones,153
+Nueva Segovia,2009,Denuncias,1005
+Nueva Segovia,2009,Homicidios,6
+Nueva Segovia,2009,Robos,229
+Nueva Segovia,2009,Hurtos,52
+Nueva Segovia,2009,Delitos sexuales,41
+Nueva Segovia,2009,Lesiones,109
+Nueva Segovia,2010,Denuncias,1280
+Nueva Segovia,2010,Homicidios,11
+Nueva Segovia,2010,Robos,225
+Nueva Segovia,2010,Hurtos,82
+Nueva Segovia,2010,Delitos sexuales,47
+Nueva Segovia,2010,Lesiones,114
+Nueva Segovia,2011,Denuncias,1058
+Nueva Segovia,2011,Homicidios,9
+Nueva Segovia,2011,Robos,141
+Nueva Segovia,2011,Hurtos,46
+Nueva Segovia,2011,Delitos sexuales,44
+Nueva Segovia,2011,Lesiones,96
+Nueva Segovia,2012,Denuncias,1016
+Nueva Segovia,2012,Homicidios,8
+Nueva Segovia,2012,Robos,109
+Nueva Segovia,2012,Hurtos,43
+Nueva Segovia,2012,Delitos sexuales,38
+Nueva Segovia,2012,Lesiones,81
+Nueva Segovia,2013,Denuncias,953
+Nueva Segovia,2013,Homicidios,5
+Nueva Segovia,2013,Robos,92
+Nueva Segovia,2013,Hurtos,46
+Nueva Segovia,2013,Delitos sexuales,41
+Nueva Segovia,2013,Lesiones,81
+Nueva Segovia,2014,Denuncias,795
+Nueva Segovia,2014,Homicidios,8
+Nueva Segovia,2014,Robos,60
+Nueva Segovia,2014,Hurtos,31
+Nueva Segovia,2014,Delitos sexuales,33
+Nueva Segovia,2014,Lesiones,75
+Nueva Segovia,2015,Denuncias,611
+Nueva Segovia,2015,Homicidios,6
+Nueva Segovia,2015,Robos,48
+Nueva Segovia,2015,Hurtos,16
+Nueva Segovia,2015,Delitos sexuales,33
+Nueva Segovia,2015,Lesiones,56
+Nueva Segovia,2016,Denuncias,727
+Nueva Segovia,2016,Homicidios,5
+Nueva Segovia,2016,Robos,68
+Nueva Segovia,2016,Hurtos,21
+Nueva Segovia,2016,Delitos sexuales,28
+Nueva Segovia,2016,Lesiones,63
+Nueva Segovia,2017,Denuncias,556
+Nueva Segovia,2017,Homicidios,7
+Nueva Segovia,2017,Robos,68
+Nueva Segovia,2017,Hurtos,25
+Nueva Segovia,2017,Delitos sexuales,24
+Nueva Segovia,2017,Lesiones,62
+Nueva Segovia,2018,Denuncias,742
+Nueva Segovia,2018,Homicidios,9
+Nueva Segovia,2018,Robos,96
+Nueva Segovia,2018,Hurtos,24
+Nueva Segovia,2018,Delitos sexuales,25
+Nueva Segovia,2018,Lesiones,68
+Nueva Segovia,2019,Denuncias,821
+Nueva Segovia,2019,Homicidios,7
+Nueva Segovia,2019,Robos,82
+Nueva Segovia,2019,Hurtos,20
+Nueva Segovia,2019,Delitos sexuales,20
+Nueva Segovia,2019,Lesiones,63
+RACCN,2007,Denuncias,3563
+RACCN,2007,Homicidios,10
+RACCN,2007,Robos,655
+RACCN,2007,Hurtos,681
+RACCN,2007,Delitos sexuales,110
+RACCN,2007,Lesiones,804
+RACCN,2008,Denuncias,4170
+RACCN,2008,Homicidios,7
+RACCN,2008,Robos,796
+RACCN,2008,Hurtos,579
+RACCN,2008,Delitos sexuales,138
+RACCN,2008,Lesiones,590
+RACCN,2009,Denuncias,3769
+RACCN,2009,Homicidios,12
+RACCN,2009,Robos,754
+RACCN,2009,Hurtos,288
+RACCN,2009,Delitos sexuales,130
+RACCN,2009,Lesiones,482
+RACCN,2010,Denuncias,3185
+RACCN,2010,Homicidios,18
+RACCN,2010,Robos,661
+RACCN,2010,Hurtos,560
+RACCN,2010,Delitos sexuales,110
+RACCN,2010,Lesiones,412
+RACCN,2011,Denuncias,3032
+RACCN,2011,Homicidios,19
+RACCN,2011,Robos,609
+RACCN,2011,Hurtos,547
+RACCN,2011,Delitos sexuales,111
+RACCN,2011,Lesiones,337
+RACCN,2012,Denuncias,3070
+RACCN,2012,Homicidios,22
+RACCN,2012,Robos,522
+RACCN,2012,Hurtos,500
+RACCN,2012,Delitos sexuales,127
+RACCN,2012,Lesiones,226
+RACCN,2013,Denuncias,2866
+RACCN,2013,Homicidios,23
+RACCN,2013,Robos,502
+RACCN,2013,Hurtos,394
+RACCN,2013,Delitos sexuales,127
+RACCN,2013,Lesiones,196
+RACCN,2014,Denuncias,2697
+RACCN,2014,Homicidios,13
+RACCN,2014,Robos,387
+RACCN,2014,Hurtos,370
+RACCN,2014,Delitos sexuales,99
+RACCN,2014,Lesiones,169
+RACCN,2015,Denuncias,2250
+RACCN,2015,Homicidios,20
+RACCN,2015,Robos,376
+RACCN,2015,Hurtos,305
+RACCN,2015,Delitos sexuales,68
+RACCN,2015,Lesiones,189
+RACCN,2016,Denuncias,2001
+RACCN,2016,Homicidios,15
+RACCN,2016,Robos,334
+RACCN,2016,Hurtos,267
+RACCN,2016,Delitos sexuales,76
+RACCN,2016,Lesiones,140
+RACCN,2017,Denuncias,1745
+RACCN,2017,Homicidios,18
+RACCN,2017,Robos,299
+RACCN,2017,Hurtos,215
+RACCN,2017,Delitos sexuales,69
+RACCN,2017,Lesiones,109
+RACCN,2018,Denuncias,1529
+RACCN,2018,Homicidios,13
+RACCN,2018,Robos,230
+RACCN,2018,Hurtos,182
+RACCN,2018,Delitos sexuales,54
+RACCN,2018,Lesiones,84
+RACCN,2019,Denuncias,1424
+RACCN,2019,Homicidios,21
+RACCN,2019,Robos,124
+RACCN,2019,Hurtos,178
+RACCN,2019,Delitos sexuales,41
+RACCN,2019,Lesiones,89
+RACCS,2007,Denuncias,2538
+RACCS,2007,Homicidios,42
+RACCS,2007,Robos,507
+RACCS,2007,Hurtos,444
+RACCS,2007,Delitos sexuales,151
+RACCS,2007,Lesiones,362
+RACCS,2008,Denuncias,2484
+RACCS,2008,Homicidios,32
+RACCS,2008,Robos,657
+RACCS,2008,Hurtos,398
+RACCS,2008,Delitos sexuales,140
+RACCS,2008,Lesiones,327
+RACCS,2009,Denuncias,2546
+RACCS,2009,Homicidios,30
+RACCS,2009,Robos,574
+RACCS,2009,Hurtos,370
+RACCS,2009,Delitos sexuales,125
+RACCS,2009,Lesiones,293
+RACCS,2010,Denuncias,2476
+RACCS,2010,Homicidios,40
+RACCS,2010,Robos,579
+RACCS,2010,Hurtos,259
+RACCS,2010,Delitos sexuales,113
+RACCS,2010,Lesiones,367
+RACCS,2011,Denuncias,2397
+RACCS,2011,Homicidios,43
+RACCS,2011,Robos,452
+RACCS,2011,Hurtos,199
+RACCS,2011,Delitos sexuales,124
+RACCS,2011,Lesiones,327
+RACCS,2012,Denuncias,2283
+RACCS,2012,Homicidios,38
+RACCS,2012,Robos,466
+RACCS,2012,Hurtos,126
+RACCS,2012,Delitos sexuales,116
+RACCS,2012,Lesiones,303
+RACCS,2013,Denuncias,2162
+RACCS,2013,Homicidios,36
+RACCS,2013,Robos,361
+RACCS,2013,Hurtos,124
+RACCS,2013,Delitos sexuales,140
+RACCS,2013,Lesiones,200
+RACCS,2014,Denuncias,1881
+RACCS,2014,Homicidios,33
+RACCS,2014,Robos,337
+RACCS,2014,Hurtos,82
+RACCS,2014,Delitos sexuales,116
+RACCS,2014,Lesiones,168
+RACCS,2015,Denuncias,1404
+RACCS,2015,Homicidios,33
+RACCS,2015,Robos,262
+RACCS,2015,Hurtos,60
+RACCS,2015,Delitos sexuales,92
+RACCS,2015,Lesiones,144
+RACCS,2016,Denuncias,948
+RACCS,2016,Homicidios,28
+RACCS,2016,Robos,144
+RACCS,2016,Hurtos,31
+RACCS,2016,Delitos sexuales,69
+RACCS,2016,Lesiones,129
+RACCS,2017,Denuncias,761
+RACCS,2017,Homicidios,29
+RACCS,2017,Robos,118
+RACCS,2017,Hurtos,17
+RACCS,2017,Delitos sexuales,50
+RACCS,2017,Lesiones,78
+RACCS,2018,Denuncias,872
+RACCS,2018,Homicidios,19
+RACCS,2018,Robos,125
+RACCS,2018,Hurtos,20
+RACCS,2018,Delitos sexuales,35
+RACCS,2018,Lesiones,60
+RACCS,2019,Denuncias,875
+RACCS,2019,Homicidios,31
+RACCS,2019,Robos,113
+RACCS,2019,Hurtos,11
+RACCS,2019,Delitos sexuales,28
+RACCS,2019,Lesiones,34
+Río San Juan,2007,Denuncias,151
+Río San Juan,2007,Homicidios,1
+Río San Juan,2007,Robos,14
+Río San Juan,2007,Hurtos,20
+Río San Juan,2007,Delitos sexuales,11
+Río San Juan,2007,Lesiones,18
+Río San Juan,2008,Denuncias,179
+Río San Juan,2008,Homicidios,1
+Río San Juan,2008,Robos,17
+Río San Juan,2008,Hurtos,17
+Río San Juan,2008,Delitos sexuales,12
+Río San Juan,2008,Lesiones,19
+Río San Juan,2009,Denuncias,180
+Río San Juan,2009,Homicidios,2
+Río San Juan,2009,Robos,16
+Río San Juan,2009,Hurtos,11
+Río San Juan,2009,Delitos sexuales,9
+Río San Juan,2009,Lesiones,16
+Río San Juan,2010,Denuncias,218
+Río San Juan,2010,Homicidios,1
+Río San Juan,2010,Robos,19
+Río San Juan,2010,Hurtos,8
+Río San Juan,2010,Delitos sexuales,9
+Río San Juan,2010,Lesiones,25
+Río San Juan,2011,Denuncias,204
+Río San Juan,2011,Homicidios,2
+Río San Juan,2011,Robos,15
+Río San Juan,2011,Hurtos,8
+Río San Juan,2011,Delitos sexuales,10
+Río San Juan,2011,Lesiones,16
+Río San Juan,2012,Denuncias,228
+Río San Juan,2012,Homicidios,2
+Río San Juan,2012,Robos,15
+Río San Juan,2012,Hurtos,8
+Río San Juan,2012,Delitos sexuales,9
+Río San Juan,2012,Lesiones,16
+Río San Juan,2013,Denuncias,2253
+Río San Juan,2013,Homicidios,16
+Río San Juan,2013,Robos,174
+Río San Juan,2013,Hurtos,81
+Río San Juan,2013,Delitos sexuales,109
+Río San Juan,2013,Lesiones,102
+Río San Juan,2014,Denuncias,1193
+Río San Juan,2014,Homicidios,10
+Río San Juan,2014,Robos,91
+Río San Juan,2014,Hurtos,43
+Río San Juan,2014,Delitos sexuales,92
+Río San Juan,2014,Lesiones,67
+Río San Juan,2015,Denuncias,1022
+Río San Juan,2015,Homicidios,13
+Río San Juan,2015,Robos,84
+Río San Juan,2015,Hurtos,39
+Río San Juan,2015,Delitos sexuales,114
+Río San Juan,2015,Lesiones,54
+Río San Juan,2016,Denuncias,786
+Río San Juan,2016,Homicidios,8
+Río San Juan,2016,Robos,55
+Río San Juan,2016,Hurtos,33
+Río San Juan,2016,Delitos sexuales,64
+Río San Juan,2016,Lesiones,68
+Río San Juan,2017,Denuncias,613
+Río San Juan,2017,Homicidios,10
+Río San Juan,2017,Robos,52
+Río San Juan,2017,Hurtos,26
+Río San Juan,2017,Delitos sexuales,43
+Río San Juan,2017,Lesiones,43
+Río San Juan,2018,Denuncias,466
+Río San Juan,2018,Homicidios,14
+Río San Juan,2018,Robos,58
+Río San Juan,2018,Hurtos,14
+Río San Juan,2018,Delitos sexuales,30
+Río San Juan,2018,Lesiones,31
+Río San Juan,2019,Denuncias,487
+Río San Juan,2019,Homicidios,12
+Río San Juan,2019,Robos,48
+Río San Juan,2019,Hurtos,12
+Río San Juan,2019,Delitos sexuales,11
+Río San Juan,2019,Lesiones,25
+Rivas,2007,Denuncias,2448
+Rivas,2007,Homicidios,9
+Rivas,2007,Robos,359
+Rivas,2007,Hurtos,499
+Rivas,2007,Delitos sexuales,69
+Rivas,2007,Lesiones,339
+Rivas,2008,Denuncias,2576
+Rivas,2008,Homicidios,10
+Rivas,2008,Robos,408
+Rivas,2008,Hurtos,489
+Rivas,2008,Delitos sexuales,59
+Rivas,2008,Lesiones,309
+Rivas,2009,Denuncias,3357
+Rivas,2009,Homicidios,8
+Rivas,2009,Robos,425
+Rivas,2009,Hurtos,291
+Rivas,2009,Delitos sexuales,72
+Rivas,2009,Lesiones,222
+Rivas,2010,Denuncias,3475
+Rivas,2010,Homicidios,7
+Rivas,2010,Robos,327
+Rivas,2010,Hurtos,234
+Rivas,2010,Delitos sexuales,83
+Rivas,2010,Lesiones,190
+Rivas,2011,Denuncias,3232
+Rivas,2011,Homicidios,6
+Rivas,2011,Robos,247
+Rivas,2011,Hurtos,163
+Rivas,2011,Delitos sexuales,72
+Rivas,2011,Lesiones,156
+Rivas,2012,Denuncias,3270
+Rivas,2012,Homicidios,6
+Rivas,2012,Robos,250
+Rivas,2012,Hurtos,167
+Rivas,2012,Delitos sexuales,78
+Rivas,2012,Lesiones,149
+Rivas,2013,Denuncias,2235
+Rivas,2013,Homicidios,8
+Rivas,2013,Robos,235
+Rivas,2013,Hurtos,131
+Rivas,2013,Delitos sexuales,57
+Rivas,2013,Lesiones,96
+Rivas,2014,Denuncias,1933
+Rivas,2014,Homicidios,8
+Rivas,2014,Robos,186
+Rivas,2014,Hurtos,129
+Rivas,2014,Delitos sexuales,73
+Rivas,2014,Lesiones,36
+Rivas,2015,Denuncias,1642
+Rivas,2015,Homicidios,5
+Rivas,2015,Robos,121
+Rivas,2015,Hurtos,102
+Rivas,2015,Delitos sexuales,31
+Rivas,2015,Lesiones,59
+Rivas,2016,Denuncias,1486
+Rivas,2016,Homicidios,1
+Rivas,2016,Robos,127
+Rivas,2016,Hurtos,53
+Rivas,2016,Delitos sexuales,30
+Rivas,2016,Lesiones,51
+Rivas,2017,Denuncias,1384
+Rivas,2017,Homicidios,2
+Rivas,2017,Robos,180
+Rivas,2017,Hurtos,102
+Rivas,2017,Delitos sexuales,33
+Rivas,2017,Lesiones,66
+Rivas,2018,Denuncias,1588
+Rivas,2018,Homicidios,5
+Rivas,2018,Robos,169
+Rivas,2018,Hurtos,101
+Rivas,2018,Delitos sexuales,34
+Rivas,2018,Lesiones,86
+Rivas,2019,Denuncias,1651
+Rivas,2019,Homicidios,7
+Rivas,2019,Robos,188
+Rivas,2019,Hurtos,77
+Rivas,2019,Delitos sexuales,28
+Rivas,2019,Lesiones,81
