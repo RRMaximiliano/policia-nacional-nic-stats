@@ -15,6 +15,8 @@ knitr::opts_chunk$set(
 
 # Estadísticas de la Policia Nacional de Nicaragua
 
+## A nivel nacional
+
 ```{r, include = FALSE}
 library(tidyverse)
 
@@ -43,9 +45,30 @@ Las siguientes variables se encuentran en este base de datos:
 data
 ```
 
+## A nivel departamental
+
+A nivel departamental, las estadísticas se encuentra desde el año 2007 al 2019, y las siguientes variables: 
+
+* `year`: Año.
+* `departamento`: Departamento
+* `variable`: Tipología del crimer cometido. 
+* `cantidad`: Número por cada 100 mil habitantes. 
+  * e.g., Denuncias, Homicidios, etc.
+
+```{r, include = FALSE}
+data_dep <- read_csv("data/stats_departamento.csv") %>% as_tibble()
+```
+
+```{r}
+data_dep
+```
+
 ## Descargar los datos
 
-Los datos se encuentran en la carpeta `/data` en formato [CSV](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv). Al acceder el link, deberán darle click derecho "guardar como / save as".
+Los datos se encuentran en la carpeta `/data` en formato [CSV](https://github.com/RRMaximiliano/policia-nacional-nic-stats/tree/master/data). Al acceder el link, deberán darle click derecho "guardar como / save as".
+
+1. [Nivel nacional](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv)
+2. [Nivel departamental](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats_departamento.csv)
 
 ## Caveats
 

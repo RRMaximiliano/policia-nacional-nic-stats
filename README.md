@@ -3,6 +3,8 @@
 
 # Estadísticas de la Policia Nacional de Nicaragua
 
+## A nivel nacional
+
 Este repositorio contiene datos extraídos de los reportes de los
 Anuarios Estadísticos de la Policía Nacional de Nicaragua.
 
@@ -15,16 +17,14 @@ el año 1980 al año 2019.
 
 Las siguientes variables se encuentran en este base de datos:
 
-  - `year`: Año.
-  - `tipología`: Tipología del crimer cometido.
-      - e.g., Delitos y faltas contra la vida, Delitos y faltas contra
+-   `year`: Año.
+-   `tipología`: Tipología del crimer cometido.
+    -   e.g., Delitos y faltas contra la vida, Delitos y faltas contra
         el patrimonio y el orden socioeconómico.
-  - `delito`: Tipo del crimer comedito.
-      - e.g., Asesinatos, Homicidios, etc.
-  - `denuncias`: Denuncias.
-  - `resueltos`: Casos resueltos.
-
-<!-- end list -->
+-   `delito`: Tipo del crimer comedito.
+    -   e.g., Asesinatos, Homicidios, etc.
+-   `denuncias`: Denuncias.
+-   `resueltos`: Casos resueltos.
 
 ``` r
 data
@@ -44,12 +44,46 @@ data
 #> # ... with 550 more rows
 ```
 
+## A nivel departamental
+
+A nivel departamental, las estadísticas se encuentra desde el año 2007
+al 2019, y las siguientes variables:
+
+-   `year`: Año.
+-   `departamento`: Departamento
+-   `variable`: Tipología del crimer cometido.
+-   `cantidad`: Número por cada 100 mil habitantes.
+    -   e.g., Denuncias, Homicidios, etc.
+
+``` r
+data_dep
+#> # A tibble: 1,404 x 4
+#>    departamento  year variable         cantidad
+#>    <chr>        <dbl> <chr>               <dbl>
+#>  1 Boaco         2007 Denuncias            1062
+#>  2 Boaco         2007 Homicidios             12
+#>  3 Boaco         2007 Robos                 121
+#>  4 Boaco         2007 Hurtos                197
+#>  5 Boaco         2007 Delitos sexuales       76
+#>  6 Boaco         2007 Lesiones              233
+#>  7 Boaco         2008 Denuncias            1272
+#>  8 Boaco         2008 Homicidios              4
+#>  9 Boaco         2008 Robos                 214
+#> 10 Boaco         2008 Hurtos                167
+#> # ... with 1,394 more rows
+```
+
 ## Descargar los datos
 
 Los datos se encuentran en la carpeta `/data` en formato
-[CSV](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv).
+[CSV](https://github.com/RRMaximiliano/policia-nacional-nic-stats/tree/master/data).
 Al acceder el link, deberán darle click derecho “guardar como / save
 as”.
+
+1.  [Nivel
+    nacional](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv)
+2.  [Nivel
+    departamental](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats_departamento.csv)
 
 ## Caveats
 
