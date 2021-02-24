@@ -23,7 +23,7 @@ library(tidyverse)
 data <- read.csv("data/stats.csv") %>% as_tibble()
 ```
 
-Este repositorio contiene datos extraídos de los reportes de los Anuarios Estadísticos de la Policía Nacional de Nicaragua. 
+Este repositorio contiene datos extraídos de los reportes de los Anuarios Estadísticos de la Policía Nacional de Nicaragua. Los anuario desde 1998 al 2019 se pueden encontrar [aquí](https://drive.google.com/file/d/1cndR83OTomj41gkOsre_57P9Hy8V3X6v/view?usp=sharing).
 
 ## Información en la base de datos
 

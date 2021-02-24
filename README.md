@@ -6,7 +6,9 @@
 ## A nivel nacional
 
 Este repositorio contiene datos extraídos de los reportes de los
-Anuarios Estadísticos de la Policía Nacional de Nicaragua.
+Anuarios Estadísticos de la Policía Nacional de Nicaragua. Los anuario
+desde 1998 al 2019 se pueden encontrar
+[aquí](https://drive.google.com/file/d/1cndR83OTomj41gkOsre_57P9Hy8V3X6v/view?usp=sharing).
 
 ## Información en la base de datos
 
@@ -57,7 +59,7 @@ al 2019, y las siguientes variables:
 
 ``` r
 data_dep
-#> # A tibble: 1,404 x 4
+#> # A tibble: 1,560 x 4
 #>    departamento  year variable         cantidad
 #>    <chr>        <dbl> <chr>               <dbl>
 #>  1 Boaco         2007 Denuncias            1062
@@ -70,7 +72,7 @@ data_dep
 #>  8 Boaco         2008 Homicidios              4
 #>  9 Boaco         2008 Robos                 214
 #> 10 Boaco         2008 Hurtos                167
-#> # ... with 1,394 more rows
+#> # ... with 1,550 more rows
 ```
 
 ## Descargar los datos

@@ -5,7 +5,9 @@ library(tidyverse)
 library(janitor)
 
 # 2. Load Data ------------------------------------------------------------
-raw <- read_csv("data/raw/raw_departamentos.csv")
+project <- file.path("D:/Documents/GitHub/policia-nacional-nic-stats")
+
+raw <- read_csv(file.path(project, "data", "raw", "raw_departamentos.csv"))
 
 # 3. Cleaning -------------------------------------------------------------
 
@@ -17,7 +19,6 @@ data <- raw %>%
   ) %>% 
   clean_names() %>% 
   rename(departamento = departamentos) %>% 
-  filter(!departamento %in% c("Triángulo Minero", "Zelaya Central")) %>% 
   group_by(departamento) %>%
   mutate(
     year = as.numeric(year)
@@ -27,5 +28,5 @@ data <- raw %>%
   
 data %>%
   as_tibble() %>% 
-  write_csv("data/stats_departamento.csv")
+  write_csv(file.path(project, "data", "stats_departamento.csv"))
 
