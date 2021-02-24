@@ -1,0 +1,261 @@
+departamento,year,policias
+Boaco,2007,83
+Boaco,2008,95
+Boaco,2009,95
+Boaco,2010,94
+Boaco,2011,112
+Boaco,2012,100
+Boaco,2013,99
+Boaco,2014,98
+Boaco,2015,102
+Boaco,2016,119
+Boaco,2017,126
+Boaco,2018,125
+Boaco,2019,124
+Carazo,2007,137
+Carazo,2008,142
+Carazo,2009,138
+Carazo,2010,132
+Carazo,2011,156
+Carazo,2012,142
+Carazo,2013,150
+Carazo,2014,149
+Carazo,2015,168
+Carazo,2016,166
+Carazo,2017,170
+Carazo,2018,158
+Carazo,2019,172
+Chinandega,2007,92
+Chinandega,2008,94
+Chinandega,2009,93
+Chinandega,2010,92
+Chinandega,2011,96
+Chinandega,2012,94
+Chinandega,2013,91
+Chinandega,2014,88
+Chinandega,2015,85
+Chinandega,2016,93
+Chinandega,2017,102
+Chinandega,2018,100
+Chinandega,2019,96
+Chontales,2007,131
+Chontales,2008,138
+Chontales,2009,145
+Chontales,2010,135
+Chontales,2011,142
+Chontales,2012,132
+Chontales,2013,134
+Chontales,2014,128
+Chontales,2015,128
+Chontales,2016,140
+Chontales,2017,142
+Chontales,2018,141
+Chontales,2019,133
+Estelí,2007,133
+Estelí,2008,132
+Estelí,2009,131
+Estelí,2010,129
+Estelí,2011,131
+Estelí,2012,128
+Estelí,2013,143
+Estelí,2014,130
+Estelí,2015,133
+Estelí,2016,133
+Estelí,2017,136
+Estelí,2018,128
+Estelí,2019,121
+Granada,2007,115
+Granada,2008,116
+Granada,2009,113
+Granada,2010,115
+Granada,2011,114
+Granada,2012,110
+Granada,2013,119
+Granada,2014,120
+Granada,2015,133
+Granada,2016,130
+Granada,2017,135
+Granada,2018,133
+Granada,2019,142
+Jinotega,2007,70
+Jinotega,2008,75
+Jinotega,2009,80
+Jinotega,2010,73
+Jinotega,2011,74
+Jinotega,2012,66
+Jinotega,2013,69
+Jinotega,2014,87
+Jinotega,2015,80
+Jinotega,2016,87
+Jinotega,2017,84
+Jinotega,2018,84
+Jinotega,2019,74
+León,2007,115
+León,2008,115
+León,2009,116
+León,2010,115
+León,2011,120
+León,2012,118
+León,2013,122
+León,2014,122
+León,2015,123
+León,2016,121
+León,2017,120
+León,2018,116
+León,2019,111
+Madriz,2007,129
+Madriz,2008,128
+Madriz,2009,129
+Madriz,2010,126
+Madriz,2011,144
+Madriz,2012,137
+Madriz,2013,136
+Madriz,2014,135
+Madriz,2015,141
+Madriz,2016,138
+Madriz,2017,141
+Madriz,2018,141
+Madriz,2019,143
+Managua,2007,151
+Managua,2008,163
+Managua,2009,182
+Managua,2010,170
+Managua,2011,210
+Managua,2012,201
+Managua,2013,204
+Managua,2014,200
+Managua,2015,207
+Managua,2016,212
+Managua,2017,223
+Managua,2018,217
+Managua,2019,182
+Masaya,2007,78
+Masaya,2008,80
+Masaya,2009,79
+Masaya,2010,77
+Masaya,2011,83
+Masaya,2012,79
+Masaya,2013,80
+Masaya,2014,77
+Masaya,2015,77
+Masaya,2016,85
+Masaya,2017,91
+Masaya,2018,87
+Masaya,2019,86
+Matagalpa,2007,76
+Matagalpa,2008,80
+Matagalpa,2009,82
+Matagalpa,2010,77
+Matagalpa,2011,75
+Matagalpa,2012,76
+Matagalpa,2013,77
+Matagalpa,2014,74
+Matagalpa,2015,71
+Matagalpa,2016,80
+Matagalpa,2017,80
+Matagalpa,2018,79
+Matagalpa,2019,72
+Nacional,2007,164
+Nacional,2008,171
+Nacional,2009,179
+Nacional,2010,180
+Nacional,2011,199
+Nacional,2012,216
+Nacional,2013,220
+Nacional,2014,222
+Nacional,2015,237
+Nacional,2016,242
+Nacional,2017,245
+Nacional,2018,234
+Nacional,2019,242
+Nueva Segovia,2007,98
+Nueva Segovia,2008,99
+Nueva Segovia,2009,97
+Nueva Segovia,2010,96
+Nueva Segovia,2011,101
+Nueva Segovia,2012,94
+Nueva Segovia,2013,93
+Nueva Segovia,2014,91
+Nueva Segovia,2015,85
+Nueva Segovia,2016,94
+Nueva Segovia,2017,104
+Nueva Segovia,2018,100
+Nueva Segovia,2019,102
+RACCN,2007,205
+RACCN,2008,203
+RACCN,2009,203
+RACCN,2010,201
+RACCN,2011,210
+RACCN,2012,199
+RACCN,2013,193
+RACCN,2014,186
+RACCN,2015,198
+RACCN,2016,206
+RACCN,2017,207
+RACCN,2018,203
+RACCN,2019,212
+RACCS,2007,156
+RACCS,2008,164
+RACCS,2009,190
+RACCS,2010,184
+RACCS,2011,167
+RACCS,2012,160
+RACCS,2013,166
+RACCS,2014,154
+RACCS,2015,139
+RACCS,2016,182
+RACCS,2017,174
+RACCS,2018,186
+RACCS,2019,133
+Río San Juan,2007,19
+Río San Juan,2008,19
+Río San Juan,2009,20
+Río San Juan,2010,20
+Río San Juan,2011,20
+Río San Juan,2012,20
+Río San Juan,2013,185
+Río San Juan,2014,180
+Río San Juan,2015,194
+Río San Juan,2016,216
+Río San Juan,2017,218
+Río San Juan,2018,212
+Río San Juan,2019,184
+Rivas,2007,148
+Rivas,2008,159
+Rivas,2009,170
+Rivas,2010,165
+Rivas,2011,168
+Rivas,2012,171
+Rivas,2013,166
+Rivas,2014,169
+Rivas,2015,176
+Rivas,2016,158
+Rivas,2017,151
+Rivas,2018,150
+Rivas,2019,149
+Triángulo Minero,2007,77
+Triángulo Minero,2008,84
+Triángulo Minero,2009,75
+Triángulo Minero,2010,78
+Triángulo Minero,2011,75
+Triángulo Minero,2012,73
+Triángulo Minero,2013,84
+Triángulo Minero,2014,119
+Triángulo Minero,2015,114
+Triángulo Minero,2016,125
+Triángulo Minero,2017,119
+Triángulo Minero,2018,122
+Triángulo Minero,2019,107
+Zelaya Central,2007,92
+Zelaya Central,2008,102
+Zelaya Central,2009,113
+Zelaya Central,2010,135
+Zelaya Central,2011,141
+Zelaya Central,2012,135
+Zelaya Central,2013,141
+Zelaya Central,2014,143
+Zelaya Central,2015,158
+Zelaya Central,2016,165
+Zelaya Central,2017,175
+Zelaya Central,2018,173
+Zelaya Central,2019,166

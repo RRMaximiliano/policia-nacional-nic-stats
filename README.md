@@ -12,10 +12,13 @@ desde 1998 al 2019 se pueden encontrar
 
 ## Información en la base de datos
 
-Actualmente, los datos en este repositorio contienen información desde
-el año 1980 al año 2019.
+Actualmente, este repositorio contiene tres bases de datos.
 
-## Variables incluídas en la base de datos
+1.  Nivel nacional con información desde el año 1980 al 2019.
+2.  Nivel departamental con información desde el año 2007 al 2019.
+3.  Policias por cada 100 mil habitantes desde el año 2007 al 2019.
+
+### A nivel Nacional
 
 Las siguientes variables se encuentran en este base de datos:
 
@@ -46,7 +49,7 @@ data
 #> # ... with 550 more rows
 ```
 
-## A nivel departamental
+### A nivel departamental
 
 A nivel departamental, las estadísticas se encuentra desde el año 2007
 al 2019, y las siguientes variables:
@@ -75,6 +78,33 @@ data_dep
 #> # ... with 1,550 more rows
 ```
 
+### Número de policias por cada cien mil habitantes
+
+También es a nivel departamental y se encuentra información desde el año
+2007 al 2019 con las siguientes variables:
+
+-   `year`: Año
+-   `departamento`: Departamento
+-   `policias`: Número de policias por cada cien mil habitantes.
+
+``` r
+data_pol
+#> # A tibble: 260 x 3
+#>    departamento  year policias
+#>    <chr>        <dbl>    <dbl>
+#>  1 Boaco         2007       83
+#>  2 Boaco         2008       95
+#>  3 Boaco         2009       95
+#>  4 Boaco         2010       94
+#>  5 Boaco         2011      112
+#>  6 Boaco         2012      100
+#>  7 Boaco         2013       99
+#>  8 Boaco         2014       98
+#>  9 Boaco         2015      102
+#> 10 Boaco         2016      119
+#> # ... with 250 more rows
+```
+
 ## Descargar los datos
 
 Los datos se encuentran en la carpeta `/data` en formato
@@ -86,6 +116,7 @@ as”.
     nacional](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv)
 2.  [Nivel
     departamental](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats_departamento.csv)
+3.  [Policias](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/policias.csv)
 
 ## Caveats
 

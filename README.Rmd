@@ -27,9 +27,14 @@ Este repositorio contiene datos extraídos de los reportes de los Anuarios Estad
 
 ## Información en la base de datos
 
-Actualmente, los datos en este repositorio contienen información desde el año 1980 al año 2019.
+Actualmente, este repositorio contiene tres bases de datos. 
 
-## Variables incluídas en la base de datos
+1. Nivel nacional con información desde el año 1980 al 2019.
+2. Nivel departamental con información desde el año 2007 al 2019.
+3. Policias por cada 100 mil habitantes desde el año 2007 al 2019.
+
+
+### A nivel Nacional 
 
 Las siguientes variables se encuentran en este base de datos: 
 
@@ -45,7 +50,7 @@ Las siguientes variables se encuentran en este base de datos:
 data
 ```
 
-## A nivel departamental
+### A nivel departamental
 
 A nivel departamental, las estadísticas se encuentra desde el año 2007 al 2019, y las siguientes variables: 
 
@@ -63,12 +68,29 @@ data_dep <- read_csv("data/stats_departamento.csv") %>% as_tibble()
 data_dep
 ```
 
+### Número de policias por cada cien mil habitantes
+
+También es a nivel departamental y se encuentra información desde el año 2007 al 2019 con las siguientes variables: 
+
+* `year`: Año
+* `departamento`: Departamento
+* `policias`: Número de policias por cada cien mil habitantes.
+
+```{r, include = FALSE}
+data_pol <- read_csv("data/policias.csv") %>% as_tibble()
+```
+
+```{r}
+data_pol
+```
+
 ## Descargar los datos
 
 Los datos se encuentran en la carpeta `/data` en formato [CSV](https://github.com/RRMaximiliano/policia-nacional-nic-stats/tree/master/data). Al acceder el link, deberán darle click derecho "guardar como / save as".
 
 1. [Nivel nacional](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv)
 2. [Nivel departamental](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats_departamento.csv)
+2. [Policias](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/policias.csv)
 
 ## Caveats
 
