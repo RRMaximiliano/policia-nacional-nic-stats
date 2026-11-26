@@ -77,6 +77,18 @@ Boaco,2019,Robos,71
 Boaco,2019,Hurtos,29
 Boaco,2019,Delitos sexuales,29
 Boaco,2019,Lesiones,105
+Boaco,2020,Denuncias,941
+Boaco,2020,Homicidios,4
+Boaco,2020,Robos,103
+Boaco,2020,Hurtos,33
+Boaco,2020,Delitos sexuales,32
+Boaco,2020,Lesiones,103
+Boaco,2021,Denuncias,1135
+Boaco,2021,Homicidios,2
+Boaco,2021,Robos,90
+Boaco,2021,Hurtos,35
+Boaco,2021,Delitos sexuales,32
+Boaco,2021,Lesiones,77
 Carazo,2007,Denuncias,3937
 Carazo,2007,Homicidios,5
 Carazo,2007,Robos,807
@@ -155,6 +167,18 @@ Carazo,2019,Robos,262
 Carazo,2019,Hurtos,150
 Carazo,2019,Delitos sexuales,38
 Carazo,2019,Lesiones,63
+Carazo,2020,Denuncias,2825
+Carazo,2020,Homicidios,4
+Carazo,2020,Robos,340
+Carazo,2020,Hurtos,147
+Carazo,2020,Delitos sexuales,55
+Carazo,2020,Lesiones,55
+Carazo,2021,Denuncias,3174
+Carazo,2021,Homicidios,2
+Carazo,2021,Robos,261
+Carazo,2021,Hurtos,114
+Carazo,2021,Delitos sexuales,59
+Carazo,2021,Lesiones,69
 Chinandega,2007,Denuncias,2242
 Chinandega,2007,Homicidios,7
 Chinandega,2007,Robos,408
@@ -233,6 +257,18 @@ Chinandega,2019,Robos,106
 Chinandega,2019,Hurtos,44
 Chinandega,2019,Delitos sexuales,23
 Chinandega,2019,Lesiones,30
+Chinandega,2020,Denuncias,1181
+Chinandega,2020,Homicidios,5
+Chinandega,2020,Robos,145
+Chinandega,2020,Hurtos,57
+Chinandega,2020,Delitos sexuales,38
+Chinandega,2020,Lesiones,41
+Chinandega,2021,Denuncias,1559
+Chinandega,2021,Homicidios,4
+Chinandega,2021,Robos,186
+Chinandega,2021,Hurtos,65
+Chinandega,2021,Delitos sexuales,32
+Chinandega,2021,Lesiones,24
 Chontales,2007,Denuncias,1796
 Chontales,2007,Homicidios,23
 Chontales,2007,Robos,279
@@ -311,6 +347,18 @@ Chontales,2019,Robos,155
 Chontales,2019,Hurtos,55
 Chontales,2019,Delitos sexuales,28
 Chontales,2019,Lesiones,66
+Chontales,2020,Denuncias,1496
+Chontales,2020,Homicidios,9
+Chontales,2020,Robos,197
+Chontales,2020,Hurtos,61
+Chontales,2020,Delitos sexuales,32
+Chontales,2020,Lesiones,49
+Chontales,2021,Denuncias,1476
+Chontales,2021,Homicidios,5
+Chontales,2021,Robos,146
+Chontales,2021,Hurtos,48
+Chontales,2021,Delitos sexuales,26
+Chontales,2021,Lesiones,57
 Estelí,2007,Denuncias,2197
 Estelí,2007,Homicidios,6
 Estelí,2007,Robos,428
@@ -389,6 +437,18 @@ Estelí,2019,Robos,159
 Estelí,2019,Hurtos,96
 Estelí,2019,Delitos sexuales,10
 Estelí,2019,Lesiones,57
+Estelí,2020,Denuncias,3330
+Estelí,2020,Homicidios,5
+Estelí,2020,Robos,189
+Estelí,2020,Hurtos,98
+Estelí,2020,Delitos sexuales,36
+Estelí,2020,Lesiones,46
+Estelí,2021,Denuncias,3449
+Estelí,2021,Homicidios,2
+Estelí,2021,Robos,174
+Estelí,2021,Hurtos,68
+Estelí,2021,Delitos sexuales,40
+Estelí,2021,Lesiones,26
 Granada,2007,Denuncias,3201
 Granada,2007,Homicidios,6
 Granada,2007,Robos,622
@@ -467,6 +527,18 @@ Granada,2019,Robos,101
 Granada,2019,Hurtos,23
 Granada,2019,Delitos sexuales,37
 Granada,2019,Lesiones,56
+Granada,2020,Denuncias,1920
+Granada,2020,Homicidios,2
+Granada,2020,Robos,102
+Granada,2020,Hurtos,21
+Granada,2020,Delitos sexuales,38
+Granada,2020,Lesiones,50
+Granada,2021,Denuncias,2622
+Granada,2021,Homicidios,2
+Granada,2021,Robos,102
+Granada,2021,Hurtos,32
+Granada,2021,Delitos sexuales,46
+Granada,2021,Lesiones,42
 Jinotega,2007,Denuncias,1051
 Jinotega,2007,Homicidios,16
 Jinotega,2007,Robos,135
@@ -545,6 +617,18 @@ Jinotega,2019,Robos,52
 Jinotega,2019,Hurtos,11
 Jinotega,2019,Delitos sexuales,18
 Jinotega,2019,Lesiones,23
+Jinotega,2020,Denuncias,478
+Jinotega,2020,Homicidios,13
+Jinotega,2020,Robos,85
+Jinotega,2020,Hurtos,22
+Jinotega,2020,Delitos sexuales,17
+Jinotega,2020,Lesiones,19
+Jinotega,2021,Denuncias,781
+Jinotega,2021,Homicidios,18
+Jinotega,2021,Robos,134
+Jinotega,2021,Hurtos,31
+Jinotega,2021,Delitos sexuales,20
+Jinotega,2021,Lesiones,30
 León,2007,Denuncias,1858
 León,2007,Homicidios,5
 León,2007,Robos,347
@@ -623,6 +707,18 @@ León,2019,Robos,137
 León,2019,Hurtos,60
 León,2019,Delitos sexuales,25
 León,2019,Lesiones,58
+León,2020,Denuncias,2691
+León,2020,Homicidios,3
+León,2020,Robos,257
+León,2020,Hurtos,121
+León,2020,Delitos sexuales,46
+León,2020,Lesiones,67
+León,2021,Denuncias,3320
+León,2021,Homicidios,2
+León,2021,Robos,171
+León,2021,Hurtos,109
+León,2021,Delitos sexuales,45
+León,2021,Lesiones,46
 Madriz,2007,Denuncias,1696
 Madriz,2007,Homicidios,6
 Madriz,2007,Robos,172
@@ -701,6 +797,18 @@ Madriz,2019,Robos,54
 Madriz,2019,Hurtos,25
 Madriz,2019,Delitos sexuales,15
 Madriz,2019,Lesiones,49
+Madriz,2020,Denuncias,1490
+Madriz,2020,Homicidios,1
+Madriz,2020,Robos,69
+Madriz,2020,Hurtos,29
+Madriz,2020,Delitos sexuales,34
+Madriz,2020,Lesiones,40
+Madriz,2021,Denuncias,2063
+Madriz,2021,Homicidios,1
+Madriz,2021,Robos,42
+Madriz,2021,Hurtos,23
+Madriz,2021,Delitos sexuales,27
+Madriz,2021,Lesiones,42
 Managua,2007,Denuncias,3964
 Managua,2007,Homicidios,13
 Managua,2007,Robos,1024
@@ -779,6 +887,18 @@ Managua,2019,Robos,401
 Managua,2019,Hurtos,103
 Managua,2019,Delitos sexuales,37
 Managua,2019,Lesiones,67
+Managua,2020,Denuncias,3269
+Managua,2020,Homicidios,5
+Managua,2020,Robos,463
+Managua,2020,Hurtos,101
+Managua,2020,Delitos sexuales,54
+Managua,2020,Lesiones,66
+Managua,2021,Denuncias,3084
+Managua,2021,Homicidios,4
+Managua,2021,Robos,327
+Managua,2021,Hurtos,95
+Managua,2021,Delitos sexuales,47
+Managua,2021,Lesiones,52
 Masaya,2007,Denuncias,2083
 Masaya,2007,Homicidios,5
 Masaya,2007,Robos,288
@@ -857,6 +977,18 @@ Masaya,2019,Robos,112
 Masaya,2019,Hurtos,26
 Masaya,2019,Delitos sexuales,33
 Masaya,2019,Lesiones,30
+Masaya,2020,Denuncias,1636
+Masaya,2020,Homicidios,3
+Masaya,2020,Robos,153
+Masaya,2020,Hurtos,36
+Masaya,2020,Delitos sexuales,43
+Masaya,2020,Lesiones,25
+Masaya,2021,Denuncias,2211
+Masaya,2021,Homicidios,2
+Masaya,2021,Robos,185
+Masaya,2021,Hurtos,55
+Masaya,2021,Delitos sexuales,54
+Masaya,2021,Lesiones,18
 Matagalpa,2007,Denuncias,2101
 Matagalpa,2007,Homicidios,14
 Matagalpa,2007,Robos,284
@@ -935,6 +1067,18 @@ Matagalpa,2019,Robos,84
 Matagalpa,2019,Hurtos,18
 Matagalpa,2019,Delitos sexuales,18
 Matagalpa,2019,Lesiones,33
+Matagalpa,2020,Denuncias,1286
+Matagalpa,2020,Homicidios,8
+Matagalpa,2020,Robos,143
+Matagalpa,2020,Hurtos,39
+Matagalpa,2020,Delitos sexuales,22
+Matagalpa,2020,Lesiones,43
+Matagalpa,2021,Denuncias,1423
+Matagalpa,2021,Homicidios,6
+Matagalpa,2021,Robos,150
+Matagalpa,2021,Hurtos,54
+Matagalpa,2021,Delitos sexuales,25
+Matagalpa,2021,Lesiones,40
 Nacional,2007,Denuncias,2458
 Nacional,2007,Homicidios,13
 Nacional,2007,Robos,491
@@ -1013,6 +1157,18 @@ Nacional,2019,Robos,177
 Nacional,2019,Hurtos,59
 Nacional,2019,Delitos sexuales,28
 Nacional,2019,Lesiones,53
+Nacional,2020,Denuncias,1910
+Nacional,2020,Homicidios,8
+Nacional,2020,Robos,224
+Nacional,2020,Hurtos,67
+Nacional,2020,Delitos sexuales,40
+Nacional,2020,Lesiones,52
+Nacional,2021,Denuncias,2111
+Nacional,2021,Homicidios,7
+Nacional,2021,Robos,189
+Nacional,2021,Hurtos,66
+Nacional,2021,Delitos sexuales,40
+Nacional,2021,Lesiones,45
 Nueva Segovia,2007,Denuncias,1007
 Nueva Segovia,2007,Homicidios,8
 Nueva Segovia,2007,Robos,180
@@ -1091,6 +1247,18 @@ Nueva Segovia,2019,Robos,82
 Nueva Segovia,2019,Hurtos,20
 Nueva Segovia,2019,Delitos sexuales,20
 Nueva Segovia,2019,Lesiones,63
+Nueva Segovia,2020,Denuncias,1060
+Nueva Segovia,2020,Homicidios,9
+Nueva Segovia,2020,Robos,110
+Nueva Segovia,2020,Hurtos,32
+Nueva Segovia,2020,Delitos sexuales,32
+Nueva Segovia,2020,Lesiones,77
+Nueva Segovia,2021,Denuncias,1472
+Nueva Segovia,2021,Homicidios,8
+Nueva Segovia,2021,Robos,146
+Nueva Segovia,2021,Hurtos,54
+Nueva Segovia,2021,Delitos sexuales,43
+Nueva Segovia,2021,Lesiones,62
 RACCN,2007,Denuncias,3563
 RACCN,2007,Homicidios,10
 RACCN,2007,Robos,655
@@ -1169,6 +1337,18 @@ RACCN,2019,Robos,124
 RACCN,2019,Hurtos,178
 RACCN,2019,Delitos sexuales,41
 RACCN,2019,Lesiones,89
+RACCN,2020,Denuncias,1553
+RACCN,2020,Homicidios,10
+RACCN,2020,Robos,155
+RACCN,2020,Hurtos,105
+RACCN,2020,Delitos sexuales,63
+RACCN,2020,Lesiones,78
+RACCN,2021,Denuncias,1665
+RACCN,2021,Homicidios,15
+RACCN,2021,Robos,106
+RACCN,2021,Hurtos,33
+RACCN,2021,Delitos sexuales,50
+RACCN,2021,Lesiones,67
 RACCS,2007,Denuncias,2538
 RACCS,2007,Homicidios,42
 RACCS,2007,Robos,507
@@ -1247,6 +1427,18 @@ RACCS,2019,Robos,113
 RACCS,2019,Hurtos,11
 RACCS,2019,Delitos sexuales,28
 RACCS,2019,Lesiones,34
+RACCS,2020,Denuncias,1044
+RACCS,2020,Homicidios,30
+RACCS,2020,Robos,115
+RACCS,2020,Hurtos,9
+RACCS,2020,Delitos sexuales,42
+RACCS,2020,Lesiones,23
+RACCS,2021,Denuncias,1095
+RACCS,2021,Homicidios,19
+RACCS,2021,Robos,105
+RACCS,2021,Hurtos,20
+RACCS,2021,Delitos sexuales,53
+RACCS,2021,Lesiones,22
 Río San Juan,2007,Denuncias,151
 Río San Juan,2007,Homicidios,1
 Río San Juan,2007,Robos,14
@@ -1325,6 +1517,18 @@ Río San Juan,2019,Robos,48
 Río San Juan,2019,Hurtos,12
 Río San Juan,2019,Delitos sexuales,11
 Río San Juan,2019,Lesiones,25
+Río San Juan,2020,Denuncias,672
+Río San Juan,2020,Homicidios,13
+Río San Juan,2020,Robos,53
+Río San Juan,2020,Hurtos,18
+Río San Juan,2020,Delitos sexuales,22
+Río San Juan,2020,Lesiones,36
+Río San Juan,2021,Denuncias,1157
+Río San Juan,2021,Homicidios,9
+Río San Juan,2021,Robos,118
+Río San Juan,2021,Hurtos,52
+Río San Juan,2021,Delitos sexuales,38
+Río San Juan,2021,Lesiones,43
 Rivas,2007,Denuncias,2448
 Rivas,2007,Homicidios,9
 Rivas,2007,Robos,359
@@ -1403,6 +1607,18 @@ Rivas,2019,Robos,188
 Rivas,2019,Hurtos,77
 Rivas,2019,Delitos sexuales,28
 Rivas,2019,Lesiones,81
+Rivas,2020,Denuncias,2044
+Rivas,2020,Homicidios,6
+Rivas,2020,Robos,240
+Rivas,2020,Hurtos,99
+Rivas,2020,Delitos sexuales,43
+Rivas,2020,Lesiones,69
+Rivas,2021,Denuncias,2302
+Rivas,2021,Homicidios,5
+Rivas,2021,Robos,228
+Rivas,2021,Hurtos,97
+Rivas,2021,Delitos sexuales,48
+Rivas,2021,Lesiones,55
 Triángulo Minero,2007,Denuncias,989
 Triángulo Minero,2007,Homicidios,29
 Triángulo Minero,2007,Robos,95
@@ -1481,6 +1697,18 @@ Triángulo Minero,2019,Robos,76
 Triángulo Minero,2019,Hurtos,56
 Triángulo Minero,2019,Delitos sexuales,28
 Triángulo Minero,2019,Lesiones,51
+Triángulo Minero,2020,Denuncias,687
+Triángulo Minero,2020,Homicidios,19
+Triángulo Minero,2020,Robos,79
+Triángulo Minero,2020,Hurtos,58
+Triángulo Minero,2020,Delitos sexuales,41
+Triángulo Minero,2020,Lesiones,39
+Triángulo Minero,2021,Denuncias,671
+Triángulo Minero,2021,Homicidios,23
+Triángulo Minero,2021,Robos,56
+Triángulo Minero,2021,Hurtos,33
+Triángulo Minero,2021,Delitos sexuales,34
+Triángulo Minero,2021,Lesiones,31
 Zelaya Central,2007,Denuncias,1223
 Zelaya Central,2007,Homicidios,29
 Zelaya Central,2007,Robos,159
@@ -1559,3 +1787,15 @@ Zelaya Central,2019,Robos,95
 Zelaya Central,2019,Hurtos,35
 Zelaya Central,2019,Delitos sexuales,20
 Zelaya Central,2019,Lesiones,67
+Zelaya Central,2020,Denuncias,1195
+Zelaya Central,2020,Homicidios,12
+Zelaya Central,2020,Robos,161
+Zelaya Central,2020,Hurtos,56
+Zelaya Central,2020,Delitos sexuales,30
+Zelaya Central,2020,Lesiones,67
+Zelaya Central,2021,Denuncias,1675
+Zelaya Central,2021,Homicidios,12
+Zelaya Central,2021,Robos,161
+Zelaya Central,2021,Hurtos,66
+Zelaya Central,2021,Delitos sexuales,54
+Zelaya Central,2021,Lesiones,85

@@ -1,0 +1,301 @@
+departamento,year,personas_por_delito
+Boaco,2007,92
+Boaco,2008,72
+Boaco,2009,79
+Boaco,2010,77
+Boaco,2011,72
+Boaco,2012,81
+Boaco,2013,81
+Boaco,2014,101
+Boaco,2015,96
+Boaco,2016,112
+Boaco,2017,144
+Boaco,2018,165
+Boaco,2019,147
+Boaco,2020,106
+Boaco,2021,88
+Carazo,2007,25
+Carazo,2008,22
+Carazo,2009,23
+Carazo,2010,26
+Carazo,2011,27
+Carazo,2012,30
+Carazo,2013,37
+Carazo,2014,38
+Carazo,2015,45
+Carazo,2016,44
+Carazo,2017,54
+Carazo,2018,54
+Carazo,2019,46
+Carazo,2020,35
+Carazo,2021,32
+Chinandega,2007,44
+Chinandega,2008,49
+Chinandega,2009,47
+Chinandega,2010,59
+Chinandega,2011,67
+Chinandega,2012,69
+Chinandega,2013,83
+Chinandega,2014,88
+Chinandega,2015,109
+Chinandega,2016,114
+Chinandega,2017,123
+Chinandega,2018,154
+Chinandega,2019,143
+Chinandega,2020,85
+Chinandega,2021,64
+Chontales,2007,55
+Chontales,2008,56
+Chontales,2009,51
+Chontales,2010,50
+Chontales,2011,56
+Chontales,2012,65
+Chontales,2013,74
+Chontales,2014,77
+Chontales,2015,77
+Chontales,2016,78
+Chontales,2017,78
+Chontales,2018,92
+Chontales,2019,75
+Chontales,2020,67
+Chontales,2021,68
+Estelí,2007,47
+Estelí,2008,48
+Estelí,2009,34
+Estelí,2010,74
+Estelí,2011,37
+Estelí,2012,47
+Estelí,2013,51
+Estelí,2014,53
+Estelí,2015,55
+Estelí,2016,48
+Estelí,2017,51
+Estelí,2018,43
+Estelí,2019,40
+Estelí,2020,30
+Estelí,2021,29
+Granada,2007,32
+Granada,2008,26
+Granada,2009,23
+Granada,2010,26
+Granada,2011,26
+Granada,2012,26
+Granada,2013,29
+Granada,2014,36
+Granada,2015,52
+Granada,2016,41
+Granada,2017,54
+Granada,2018,66
+Granada,2019,64
+Granada,2020,52
+Granada,2021,38
+Jinotega,2007,99
+Jinotega,2008,91
+Jinotega,2009,104
+Jinotega,2010,121
+Jinotega,2011,122
+Jinotega,2012,107
+Jinotega,2013,129
+Jinotega,2014,131
+Jinotega,2015,172
+Jinotega,2016,195
+Jinotega,2017,186
+Jinotega,2018,252
+Jinotega,2019,253
+Jinotega,2020,209
+Jinotega,2021,128
+León,2007,55
+León,2008,51
+León,2009,55
+León,2010,48
+León,2011,51
+León,2012,60
+León,2013,63
+León,2014,71
+León,2015,79
+León,2016,90
+León,2017,126
+León,2018,196
+León,2019,87
+León,2020,37
+León,2021,30
+Madriz,2007,60
+Madriz,2008,74
+Madriz,2009,67
+Madriz,2010,74
+Madriz,2011,72
+Madriz,2012,84
+Madriz,2013,100
+Madriz,2014,104
+Madriz,2015,120
+Madriz,2016,149
+Madriz,2017,185
+Madriz,2018,165
+Madriz,2019,95
+Madriz,2020,67
+Madriz,2021,48
+Managua,2007,25
+Managua,2008,21
+Managua,2009,19
+Managua,2010,20
+Managua,2011,23
+Managua,2012,27
+Managua,2013,30
+Managua,2014,35
+Managua,2015,42
+Managua,2016,39
+Managua,2017,52
+Managua,2018,62
+Managua,2019,36
+Managua,2020,31
+Managua,2021,32
+Masaya,2007,47
+Masaya,2008,50
+Masaya,2009,52
+Masaya,2010,51
+Masaya,2011,68
+Masaya,2012,91
+Masaya,2013,92
+Masaya,2014,83
+Masaya,2015,77
+Masaya,2016,60
+Masaya,2017,70
+Masaya,2018,94
+Masaya,2019,67
+Masaya,2020,61
+Masaya,2021,45
+Matagalpa,2007,48
+Matagalpa,2008,45
+Matagalpa,2009,46
+Matagalpa,2010,49
+Matagalpa,2011,52
+Matagalpa,2012,57
+Matagalpa,2013,63
+Matagalpa,2014,67
+Matagalpa,2015,79
+Matagalpa,2016,73
+Matagalpa,2017,87
+Matagalpa,2018,104
+Matagalpa,2019,92
+Matagalpa,2020,78
+Matagalpa,2021,70
+Nacional,2007,41
+Nacional,2008,36
+Nacional,2009,35
+Nacional,2010,36
+Nacional,2011,40
+Nacional,2012,45
+Nacional,2013,50
+Nacional,2014,56
+Nacional,2015,66
+Nacional,2016,64
+Nacional,2017,79
+Nacional,2018,91
+Nacional,2019,66
+Nacional,2020,52
+Nacional,2021,47
+Nueva Segovia,2007,105
+Nueva Segovia,2008,104
+Nueva Segovia,2009,105
+Nueva Segovia,2010,82
+Nueva Segovia,2011,102
+Nueva Segovia,2012,103
+Nueva Segovia,2013,110
+Nueva Segovia,2014,134
+Nueva Segovia,2015,164
+Nueva Segovia,2016,138
+Nueva Segovia,2017,180
+Nueva Segovia,2018,135
+Nueva Segovia,2019,122
+Nueva Segovia,2020,94
+Nueva Segovia,2021,68
+RACCN,2007,28
+RACCN,2008,24
+RACCN,2009,27
+RACCN,2010,33
+RACCN,2011,34
+RACCN,2012,34
+RACCN,2013,37
+RACCN,2014,39
+RACCN,2015,44
+RACCN,2016,50
+RACCN,2017,57
+RACCN,2018,65
+RACCN,2019,70
+RACCN,2020,64
+RACCN,2021,60
+RACCS,2007,40
+RACCS,2008,41
+RACCS,2009,40
+RACCS,2010,42
+RACCS,2011,43
+RACCS,2012,44
+RACCS,2013,47
+RACCS,2014,54
+RACCS,2015,71
+RACCS,2016,106
+RACCS,2017,131
+RACCS,2018,115
+RACCS,2019,114
+RACCS,2020,96
+RACCS,2021,91
+Río San Juan,2007,69
+Río San Juan,2008,57
+Río San Juan,2009,57
+Río San Juan,2010,51
+Río San Juan,2011,55
+Río San Juan,2012,47
+Río San Juan,2013,45
+Río San Juan,2014,89
+Río San Juan,2015,98
+Río San Juan,2016,127
+Río San Juan,2017,163
+Río San Juan,2018,215
+Río San Juan,2019,205
+Río San Juan,2020,149
+Río San Juan,2021,86
+Rivas,2007,41
+Rivas,2008,39
+Rivas,2009,30
+Rivas,2010,29
+Rivas,2011,32
+Rivas,2012,31
+Rivas,2013,31
+Rivas,2014,53
+Rivas,2015,61
+Rivas,2016,67
+Rivas,2017,72
+Rivas,2018,63
+Rivas,2019,61
+Rivas,2020,49
+Rivas,2021,43
+Triángulo Minero,2007,100
+Triángulo Minero,2008,77
+Triángulo Minero,2009,89
+Triángulo Minero,2010,81
+Triángulo Minero,2011,95
+Triángulo Minero,2012,112
+Triángulo Minero,2013,89
+Triángulo Minero,2014,123
+Triángulo Minero,2015,148
+Triángulo Minero,2016,182
+Triángulo Minero,2017,146
+Triángulo Minero,2018,193
+Triángulo Minero,2019,157
+Triángulo Minero,2020,146
+Triángulo Minero,2021,149
+Zelaya Central,2007,80
+Zelaya Central,2008,59
+Zelaya Central,2009,37
+Zelaya Central,2010,36
+Zelaya Central,2011,39
+Zelaya Central,2012,44
+Zelaya Central,2013,48
+Zelaya Central,2014,55
+Zelaya Central,2015,60
+Zelaya Central,2016,73
+Zelaya Central,2017,95
+Zelaya Central,2018,124
+Zelaya Central,2019,112
+Zelaya Central,2020,84
+Zelaya Central,2021,60
