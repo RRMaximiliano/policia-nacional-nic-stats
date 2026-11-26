@@ -34,3 +34,7 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# Anuarios descargados por script/00_extract_anuario.R
+data/raw/anuarios/
+.DS_Store

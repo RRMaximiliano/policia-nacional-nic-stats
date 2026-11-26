@@ -1,0 +1,91 @@
+year,indicador,cantidad
+2021,Total Accidentes,45927
+2020,Total Accidentes,38714
+2019,Total Accidentes,41920
+2018,Total Accidentes,39406
+2017,Total Accidentes,43912
+2016,Total Accidentes,41588
+2015,Total Accidentes,33673
+2014,Total Accidentes,28587
+2013,Total Accidentes,27170
+2012,Total Accidentes,26325
+2011,Total Accidentes,24573
+2010,Total Accidentes,23797
+2009,Total Accidentes,22849
+2008,Total Accidentes,22334
+2007,Total Accidentes,20792
+2021,Total Fallecidos,904
+2020,Total Fallecidos,830
+2019,Total Fallecidos,846
+2018,Total Fallecidos,726
+2017,Total Fallecidos,782
+2016,Total Fallecidos,791
+2015,Total Fallecidos,675
+2014,Total Fallecidos,669
+2013,Total Fallecidos,577
+2012,Total Fallecidos,679
+2011,Total Fallecidos,613
+2010,Total Fallecidos,571
+2009,Total Fallecidos,601
+2008,Total Fallecidos,514
+2007,Total Fallecidos,522
+2021,Total Lesionados,3332
+2020,Total Lesionados,3139
+2019,Total Lesionados,3278
+2018,Total Lesionados,2751
+2017,Total Lesionados,3657
+2016,Total Lesionados,4781
+2015,Total Lesionados,4115
+2014,Total Lesionados,4190
+2013,Total Lesionados,4675
+2012,Total Lesionados,4837
+2011,Total Lesionados,5165
+2010,Total Lesionados,5120
+2009,Total Lesionados,5524
+2008,Total Lesionados,5462
+2007,Total Lesionados,4614
+2021,Accidentes por cada 100 mil habitantes,689
+2020,Accidentes por cada 100 mil habitantes,594
+2019,Accidentes por cada 100 mil habitantes,650
+2018,Accidentes por cada 100 mil habitantes,617
+2017,Accidentes por cada 100 mil habitantes,695
+2016,Accidentes por cada 100 mil habitantes,665
+2015,Accidentes por cada 100 mil habitantes,545
+2014,Accidentes por cada 100 mil habitantes,468
+2013,Accidentes por cada 100 mil habitantes,450
+2012,Accidentes por cada 100 mil habitantes,441
+2011,Accidentes por cada 100 mil habitantes,417
+2010,Accidentes por cada 100 mil habitantes,409
+2009,Accidentes por cada 100 mil habitantes,398
+2008,Accidentes por cada 100 mil habitantes,394
+2007,Accidentes por cada 100 mil habitantes,367
+2021,Fallecidos por cada 100 mil habitantes,14
+2020,Fallecidos por cada 100 mil habitantes,13
+2019,Fallecidos por cada 100 mil habitantes,13
+2018,Fallecidos por cada 100 mil habitantes,11
+2017,Fallecidos por cada 100 mil habitantes,12
+2016,Fallecidos por cada 100 mil habitantes,13
+2015,Fallecidos por cada 100 mil habitantes,11
+2014,Fallecidos por cada 100 mil habitantes,11
+2013,Fallecidos por cada 100 mil habitantes,10
+2012,Fallecidos por cada 100 mil habitantes,11
+2011,Fallecidos por cada 100 mil habitantes,10
+2010,Fallecidos por cada 100 mil habitantes,10
+2009,Fallecidos por cada 100 mil habitantes,10
+2008,Fallecidos por cada 100 mil habitantes,9
+2007,Fallecidos por cada 100 mil habitantes,9
+2021,Lesionados por cada 100 mil habitantes,50
+2020,Lesionados por cada 100 mil habitantes,48
+2019,Lesionados por cada 100 mil habitantes,51
+2018,Lesionados por cada 100 mil habitantes,43
+2017,Lesionados por cada 100 mil habitantes,58
+2016,Lesionados por cada 100 mil habitantes,76
+2015,Lesionados por cada 100 mil habitantes,67
+2014,Lesionados por cada 100 mil habitantes,69
+2013,Lesionados por cada 100 mil habitantes,77
+2012,Lesionados por cada 100 mil habitantes,81
+2011,Lesionados por cada 100 mil habitantes,88
+2010,Lesionados por cada 100 mil habitantes,88
+2009,Lesionados por cada 100 mil habitantes,96
+2008,Lesionados por cada 100 mil habitantes,96
+2007,Lesionados por cada 100 mil habitantes,81

@@ -1,4 +1,6 @@
 year,tipologia,delito,denuncias,resueltos
+2021,Delitos y faltas contra la vida,Asesinatos,121,86
+2020,Delitos y faltas contra la vida,Asesinatos,151,115
 2019,Delitos y faltas contra la vida,Asesinatos,152,116
 2018,Delitos y faltas contra la vida,Asesinatos,303,105
 2017,Delitos y faltas contra la vida,Asesinatos,114,91
@@ -39,6 +41,8 @@ year,tipologia,delito,denuncias,resueltos
 1982,Delitos y faltas contra la vida,Asesinatos,106,62
 1981,Delitos y faltas contra la vida,Asesinatos,179,73
 1980,Delitos y faltas contra la vida,Asesinatos,285,73
+2021,Delitos y faltas contra la vida,Homicidios,308,245
+2020,Delitos y faltas contra la vida,Homicidios,354,307
 2019,Delitos y faltas contra la vida,Homicidios,363,273
 2018,Delitos y faltas contra la vida,Homicidios,379,227
 2017,Delitos y faltas contra la vida,Homicidios,317,278
@@ -79,6 +83,8 @@ year,tipologia,delito,denuncias,resueltos
 1982,Delitos y faltas contra la vida,Homicidios,204,128
 1981,Delitos y faltas contra la vida,Homicidios,211,132
 1980,Delitos y faltas contra la vida,Homicidios,579,132
+2021,Delitos y faltas contra la vida,Lesiones,2979,2435
+2020,Delitos y faltas contra la vida,Lesiones,3390,2797
 2019,Delitos y faltas contra la vida,Lesiones,3427,2986
 2018,Delitos y faltas contra la vida,Lesiones,3227,2878
 2017,Delitos y faltas contra la vida,Lesiones,4052,3818
@@ -119,6 +125,8 @@ year,tipologia,delito,denuncias,resueltos
 1982,Delitos y faltas contra la vida,Lesiones,1937,1492
 1981,Delitos y faltas contra la vida,Lesiones,4693,3210
 1980,Delitos y faltas contra la vida,Lesiones,7716,3210
+2021,Delitos y faltas contra la vida,Violaciones,1169,1059
+2020,Delitos y faltas contra la vida,Violaciones,1170,1023
 2019,Delitos y faltas contra la vida,Violaciones,975,871
 2018,Delitos y faltas contra la vida,Violaciones,902,827
 2017,Delitos y faltas contra la vida,Violaciones,1138,1081
@@ -159,6 +167,8 @@ year,tipologia,delito,denuncias,resueltos
 1982,Delitos y faltas contra la vida,Violaciones,204,139
 1981,Delitos y faltas contra la vida,Violaciones,303,183
 1980,Delitos y faltas contra la vida,Violaciones,669,183
+2021,Delitos y faltas contra la vida,Otros delitos contra la vida,57779,54972
+2020,Delitos y faltas contra la vida,Otros delitos contra la vida,50481,48169
 2019,Delitos y faltas contra la vida,Otros delitos contra la vida,41796,41160
 2018,Delitos y faltas contra la vida,Otros delitos contra la vida,27604,27237
 2017,Delitos y faltas contra la vida,Otros delitos contra la vida,31241,30906
@@ -199,326 +209,344 @@ year,tipologia,delito,denuncias,resueltos
 1982,Delitos y faltas contra la vida,Otros delitos contra la vida,673,519
 1981,Delitos y faltas contra la vida,Otros delitos contra la vida,1623,1178
 1980,Delitos y faltas contra la vida,Otros delitos contra la vida,4068,1178
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,4161,1404
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,2914,1166
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,3938,1456
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,4495,1638
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,4179,1562
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,5128,1966
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,7033,2185
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,7987,2653
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,10924,3014
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,13415,3210
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,15703,3084
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,18066,2736
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,16138,2639
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,13757,2503
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,11900,2713
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,12163,3096
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,12271,3102
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,12156,3841
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,11548,3753
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,10621,3333
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,10484,3637
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,9805,3558
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,10061,3401
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,8990,2981
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,7775,2565
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,8067,2650
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,8112,2425
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,6754,2029
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,6423,2098
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,7209,2545
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,7281,3181
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,6296,3208
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,4574,2201
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,3900,2059
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,3636,1609
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,2405,1094
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,1903,890
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,2271,702
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,3940,1299
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con fuerza,9972,1299
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2659,1546
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,1959,1435
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2360,1846
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2341,1760
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2058,1569
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2538,1927
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,3048,2164
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,3573,2503
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4198,2519
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4880,2468
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,5622,2148
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,5411,1729
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4885,1543
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4854,1650
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4287,1909
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4414,2450
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4643,2292
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4579,2729
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,4550,2753
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,3855,2414
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,3510,2142
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,3074,1856
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2786,1613
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2400,1349
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,2020,1171
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,1859,1147
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,1580,1012
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,1294,806
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,1180,857
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,966,572
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,383,NA
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,452,NA
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,391,NA
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,205,NA
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,191,NA
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,126,NA
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,100,NA
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,119,NA
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,207,NA
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con violencia,525,NA
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4585,2355
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3984,2287
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3056,2079
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4270,2862
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3794,2483
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4062,2798
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4912,3050
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,5429,3350
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,7871,3790
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,10134,4006
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,11117,3421
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,10029,2156
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,6817,1561
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,5735,1467
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,5191,1746
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4751,1944
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4618,1620
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4321,2026
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,4429,2024
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3444,1596
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3060,1479
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2773,1457
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2761,1359
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2849,1235
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2615,1377
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2954,1458
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,3018,1447
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2350,1080
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,1879,766
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,1567,687
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,839,403
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,868,487
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,498,276
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,323,189
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,64,33
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,183,97
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,370,194
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,724,230
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,1862,342
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Robo con intimidaci髇,2322,342
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3786,2003
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,2856,1697
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3426,2181
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3919,2537
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,4240,2624
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,4950,3116
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,6167,3675
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,7141,4036
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,9459,4325
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,10453,4133
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,12739,3193
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,19888,4682
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,20863,5864
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,17474,5192
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,14512,5659
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,15440,8964
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,14584,8293
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,14150,9043
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,13711,8904
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,12147,7960
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,12174,8010
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,11575,8022
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,10541,7249
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,9300,6274
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,7965,5449
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,7655,5321
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,6526,4539
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,5232,3508
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,4430,3224
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,4570,3224
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,5179,3713
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,5103,3986
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3528,2682
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3661,2694
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3415,2290
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,2242,1519
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,1546,999
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,1834,889
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,3645,1649
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Hurtos,2745,1649
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,533,336
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,289,214
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,455,365
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,625,495
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,666,541
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,809,658
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1011,756
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1079,777
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1375,811
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1554,740
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2042,710
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2738,819
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2898,971
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2749,1062
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2357,1005
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1998,1298
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1989,1298
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2105,1469
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2339,1561
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2296,1569
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2287,1635
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2184,1616
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,2064,1555
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1972,1441
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1931,1412
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1864,1453
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1752,1327
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1755,1310
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1339,1117
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,848,671
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1068,861
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,936,782
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,793,682
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,698,556
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,450,381
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,453,333
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,389,287
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,300,211
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1987,997
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Estafas,1958,997
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1073,501
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,904,454
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1126,626
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1371,735
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1837,1006
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2092,1081
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2570,1254
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2671,1130
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3229,1229
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3636,1124
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,4310,964
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,4365,773
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3894,872
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3787,888
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3884,1081
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3464,1069
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3110,1128
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3313,1488
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3218,1404
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2760,1243
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3082,1568
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3405,1706
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3652,1778
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3538,1766
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3395,1895
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,4249,2246
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,4200,2121
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3367,1800
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3819,2169
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,3566,2058
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2835,1662
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,2293,1590
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1570,1031
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,1012,849
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,575,468
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,283,227
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,391,251
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,457,243
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,660,280
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Abigeatos,555,280
-2019,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,15791,14729
-2018,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,9242,8784
-2017,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,10160,9735
-2016,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,12192,11700
-2015,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,11591,10698
-2014,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,13765,12537
-2013,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,16124,14350
-2012,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,18629,15634
-2011,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,21826,15910
-2010,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,23641,13717
-2009,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,19940,10458
-2008,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,11739,4743
-2007,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,9045,3576
-2006,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,8197,3830
-2005,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,7253,3922
-2004,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,7349,6322
-2003,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,6831,5532
-2002,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,6433,5145
-2001,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,6728,5309
-2000,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,5476,4344
-1999,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,4819,3709
-1998,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,4198,3359
-1997,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,3879,3178
-1996,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,3134,2586
-1995,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,2976,2477
-1994,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,2537,2077
-1993,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,2023,1729
-1992,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,1839,1466
-1991,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,1311,1123
-1990,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,1235,1072
-1989,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,971,865
-1988,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,900,777
-1987,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,1274,921
-1986,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,657,524
-1985,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,763,582
-1984,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,317,263
-1983,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,224,114
-1982,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,589,337
-1981,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,725,636
-1980,Delitos y faltas contra el patrimonio y el orden socioecon髆ico,Otros contra el patrimonio,3136,636
-2019,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3314,3288
-2018,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,2271,2244
-2017,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3344,3329
-2016,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,4615,4604
-2015,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,4014,3994
-2014,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3790,3768
-2013,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3573,3538
-2012,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3303,3234
-2011,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,3005,2773
-2010,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,2542,2188
-2009,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,2078,1767
-2008,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1698,1505
-2007,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1604,1456
-2006,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1620,1476
-2005,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1323,1239
-2004,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1627,1618
-2003,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1243,1235
-2002,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1382,1380
-2001,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1222,1205
-2000,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,994,991
-1999,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1175,1168
-1998,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1095,1094
-1997,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1004,999
-1996,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,1088,1087
-1995,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,716,716
-1994,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,986,985
-1993,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,965,963
-1992,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,500,495
-1991,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,485,480
-1990,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,245,239
-1989,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,273,267
-1988,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,247,246
-1987,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,146,138
-1986,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,227,218
-1985,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,515,492
-1984,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,248,232
-1983,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,267,244
-1982,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,226,156
-1981,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,190,87
-1980,Delitos relacionados con estupefacientes psicotr髉icos y otras,Delitos relacionados con estupefacientes psicotr髉icos y otras,150,87
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,5711,1868
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,6293,1917
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,4161,1404
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,2914,1166
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,3938,1456
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,4495,1638
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,4179,1562
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,5128,1966
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,7033,2185
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,7987,2653
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,10924,3014
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,13415,3210
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,15703,3084
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,18066,2736
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,16138,2639
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,13757,2503
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,11900,2713
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,12163,3096
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,12271,3102
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,12156,3841
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,11548,3753
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,10621,3333
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,10484,3637
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,9805,3558
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,10061,3401
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,8990,2981
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,7775,2565
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,8067,2650
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,8112,2425
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,6754,2029
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,6423,2098
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,7209,2545
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,7281,3181
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,6296,3208
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,4574,2201
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,3900,2059
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,3636,1609
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,2405,1094
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,1903,890
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,2271,702
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,3940,1299
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con fuerza,9972,1299
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3154,1858
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3266,1824
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2659,1546
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,1959,1435
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2360,1846
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2341,1760
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2058,1569
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2538,1927
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3048,2164
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3573,2503
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4198,2519
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4880,2468
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,5622,2148
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,5411,1729
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4885,1543
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4854,1650
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4287,1909
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4414,2450
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4643,2292
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4579,2729
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,4550,2753
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3855,2414
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3510,2142
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,3074,1856
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2786,1613
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2400,1349
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,2020,1171
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,1859,1147
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,1580,1012
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,1294,806
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,1180,857
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,966,572
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,383,NA
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,452,NA
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,391,NA
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,205,NA
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,191,NA
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,126,NA
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,100,NA
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,119,NA
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,207,NA
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con violencia,525,NA
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3741,1860
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,5039,2351
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4585,2355
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3984,2287
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3056,2079
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4270,2862
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3794,2483
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4062,2798
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4912,3050
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,5429,3350
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,7871,3790
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,10134,4006
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,11117,3421
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,10029,2156
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,6817,1561
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,5735,1467
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,5191,1746
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4751,1944
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4618,1620
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4321,2026
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,4429,2024
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3444,1596
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3060,1479
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2773,1457
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2761,1359
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2849,1235
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2615,1377
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2954,1458
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,3018,1447
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2350,1080
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,1879,766
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,1567,687
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,839,403
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,868,487
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,498,276
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,323,189
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,64,33
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,183,97
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,370,194
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,724,230
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,1862,342
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Robo con intimidaci贸n,2322,342
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4371,2050
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4369,2009
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3786,2003
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,2856,1697
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3426,2181
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3919,2537
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4240,2624
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4950,3116
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,6167,3675
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,7141,4036
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,9459,4325
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,10453,4133
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,12739,3193
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,19888,4682
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,20863,5864
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,17474,5192
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,14512,5659
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,15440,8964
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,14584,8293
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,14150,9043
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,13711,8904
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,12147,7960
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,12174,8010
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,11575,8022
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,10541,7249
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,9300,6274
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,7965,5449
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,7655,5321
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,6526,4539
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,5232,3508
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4430,3224
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,4570,3224
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,5179,3713
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,5103,3986
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3528,2682
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3661,2694
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3415,2290
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,2242,1519
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,1546,999
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,1834,889
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,3645,1649
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Hurtos,2745,1649
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,826,484
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,713,410
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,533,336
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,289,214
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,455,365
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,625,495
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,666,541
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,809,658
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1011,756
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1079,777
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1375,811
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1554,740
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2042,710
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2738,819
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2898,971
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2749,1062
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2357,1005
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1998,1298
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1989,1298
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2105,1469
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2339,1561
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2296,1569
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2287,1635
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2184,1616
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,2064,1555
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1972,1441
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1931,1412
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1864,1453
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1752,1327
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1755,1310
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1339,1117
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,848,671
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1068,861
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,936,782
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,793,682
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,698,556
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,450,381
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,453,333
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,389,287
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,300,211
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1987,997
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Estafas,1958,997
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1347,520
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1490,594
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1073,501
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,904,454
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1126,626
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1371,735
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1837,1006
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2092,1081
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2570,1254
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2671,1130
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3229,1229
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3636,1124
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,4310,964
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,4365,773
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3894,872
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3787,888
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3884,1081
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3464,1069
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3110,1128
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3313,1488
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3218,1404
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2760,1243
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3082,1568
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3405,1706
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3652,1778
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3538,1766
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3395,1895
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,4249,2246
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,4200,2121
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3367,1800
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3819,2169
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,3566,2058
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2835,1662
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,2293,1590
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1570,1031
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,1012,849
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,575,468
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,283,227
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,391,251
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,457,243
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,660,280
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Abigeatos,555,280
+2021,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,29332,24765
+2020,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,23451,19602
+2019,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,15791,14729
+2018,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,9242,8784
+2017,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,10160,9735
+2016,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,12192,11700
+2015,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,11591,10698
+2014,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,13765,12537
+2013,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,16124,14350
+2012,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,18629,15634
+2011,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,21826,15910
+2010,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,23641,13717
+2009,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,19940,10458
+2008,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,11739,4743
+2007,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,9045,3576
+2006,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,8197,3830
+2005,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,7253,3922
+2004,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,7349,6322
+2003,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,6831,5532
+2002,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,6433,5145
+2001,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,6728,5309
+2000,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,5476,4344
+1999,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,4819,3709
+1998,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,4198,3359
+1997,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,3879,3178
+1996,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,3134,2586
+1995,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,2976,2477
+1994,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,2537,2077
+1993,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,2023,1729
+1992,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,1839,1466
+1991,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,1311,1123
+1990,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,1235,1072
+1989,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,971,865
+1988,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,900,777
+1987,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,1274,921
+1986,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,657,524
+1985,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,763,582
+1984,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,317,263
+1983,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,224,114
+1982,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,589,337
+1981,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,725,636
+1980,Delitos y faltas contra el patrimonio y el orden socioecon贸mico,Otros contra el patrimonio,3136,636
+2021,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3195,3129
+2020,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3140,3100
+2019,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3314,3288
+2018,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,2271,2244
+2017,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3344,3329
+2016,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,4615,4604
+2015,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,4014,3994
+2014,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3790,3768
+2013,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3573,3538
+2012,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3303,3234
+2011,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,3005,2773
+2010,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,2542,2188
+2009,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,2078,1767
+2008,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1698,1505
+2007,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1604,1456
+2006,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1620,1476
+2005,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1323,1239
+2004,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1627,1618
+2003,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1243,1235
+2002,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1382,1380
+2001,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1222,1205
+2000,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,994,991
+1999,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1175,1168
+1998,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1095,1094
+1997,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1004,999
+1996,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,1088,1087
+1995,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,716,716
+1994,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,986,985
+1993,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,965,963
+1992,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,500,495
+1991,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,485,480
+1990,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,245,239
+1989,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,273,267
+1988,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,247,246
+1987,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,146,138
+1986,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,227,218
+1985,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,515,492
+1984,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,248,232
+1983,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,267,244
+1982,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,226,156
+1981,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,190,87
+1980,Delitos relacionados con estupefacientes psicotr贸picos y otras,Delitos relacionados con estupefacientes psicotr贸picos y otras,150,87
+2021,Otras familias y otras faltas,Otras familias y otras faltas,26680,25428
+2020,Otras familias y otras faltas,Otras familias y otras faltas,21204,19680
 2019,Otras familias y otras faltas,Otras familias y otras faltas,15033,14418
 2018,Otras familias y otras faltas,Otras familias y otras faltas,13687,13272
 2017,Otras familias y otras faltas,Otras familias y otras faltas,15365,15078
