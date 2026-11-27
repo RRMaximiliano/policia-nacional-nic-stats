@@ -1,21 +1,16 @@
 
+# Convierte los archivos de data/raw/ a los archivos finales en data/.
 # Correr desde la raíz del repositorio después de script/00_extract_anuario.R
 
 # 1. Paquetes -------------------------------------------------------------
 
 library(tidyverse)
-library(janitor)
 
-# 2. Load Data ------------------------------------------------------------
+# 2. Funciones ------------------------------------------------------------
 
-raw_nacional <- read_csv(file.path("data", "raw", "raw_nacional.csv"))
-raw <- read_csv(file.path("data", "raw", "raw_departamentos.csv"))
-policias <- read_csv(file.path("data", "raw", "policias.csv"))
-policias_km2 <- read_csv(file.path("data", "raw", "policias_km2.csv"))
-riesgo <- read_csv(file.path("data", "raw", "riesgo.csv"))
-transito <- read_csv(file.path("data", "raw", "transito.csv"))
-drogas <- read_csv(file.path("data", "raw", "drogas.csv"))
-managua <- read_csv(file.path("data", "raw", "managua_distritos.csv"))
+read_raw <- function(file) {
+  read_csv(file.path("data", "raw", file), show_col_types = FALSE)
+}
 
 longer_years <- function(df, values_to) {
   df %>%
@@ -27,97 +22,70 @@ longer_years <- function(df, values_to) {
     )
 }
 
-# 3. Cleaning -------------------------------------------------------------
+write_data <- function(df, file) {
+  write_csv(df, file.path("data", file))
+}
 
-#-- Stats a nivel nacional
+# 3. Nivel nacional -------------------------------------------------------
 
-raw_nacional %>%
-  pivot_longer(
-    matches("^\\d{4}$"),
-    names_to = "year",
-    values_to = "cantidad"
-  ) %>%
+read_raw("raw_nacional.csv") %>%
+  longer_years("cantidad") %>%
   pivot_wider(names_from = medida, values_from = cantidad) %>%
-  mutate(year = as.numeric(year)) %>%
   select(year, tipologia, delito, denuncias, resueltos) %>%
-  write_csv(file.path("data", "stats.csv"))
+  write_data("stats.csv")
 
-#-- Stats de los departamentos
-data <- raw %>%
-  pivot_longer(
-    matches("^\\d{4}$"),
-    names_to = "year",
-    values_to = "cantidad"
-  ) %>%
-  clean_names() %>%
-  rename(departamento = departamentos) %>%
-  group_by(departamento) %>%
-  mutate(
-    year = as.numeric(year)
-  ) %>%
+# 4. Nivel departamental --------------------------------------------------
+
+read_raw("raw_departamentos.csv") %>%
+  longer_years("cantidad") %>%
+  rename(departamento = Departamentos, variable = Variable) %>%
   arrange(departamento, year, .locale = "es") %>%
-  select(departamento, year, variable, cantidad)
+  select(departamento, year, variable, cantidad) %>%
+  write_data("stats_departamento.csv")
 
-data %>%
-  as_tibble() %>%
-  write_csv(file.path("data", "stats_departamento.csv"))
+# 5. Policías por cada 100 mil habitantes y por cada 100 km² --------------
 
-#-- Policias por cada 100 mil habitantes y por cada 100 km²
+policias_km2 <- read_raw("policias_km2.csv") %>%
+  longer_years("policias_100km2") %>%
+  rename(departamento = Departamentos)
 
-policias %>%
-  pivot_longer(
-    matches("^\\d{4}$"),
-    names_to = "year",
-    values_to = "policias"
-  ) %>%
-  clean_names() %>%
-  rename(departamento = departamentos) %>%
-  group_by(departamento) %>%
-  mutate(
-    year = as.numeric(year)
-  ) %>%
+read_raw("policias.csv") %>%
+  longer_years("policias") %>%
+  rename(departamento = Departamentos) %>%
   arrange(departamento, year, .locale = "es") %>%
-  select(departamento, year, policias) %>%
-  as_tibble() %>%
-  left_join(
-    policias_km2 %>%
-      longer_years("policias_100km2") %>%
-      rename(departamento = Departamentos),
-    by = c("departamento", "year")
-  ) %>%
-  write_csv(file.path("data", "policias.csv"))
+  left_join(policias_km2, by = c("departamento", "year")) %>%
+  write_data("policias.csv")
 
-#-- Riesgo de ser víctima: un delito por cada X personas
+# 6. Riesgo de ser víctima: un delito por cada X personas -----------------
 
-riesgo %>%
+read_raw("riesgo.csv") %>%
   longer_years("personas_por_delito") %>%
   rename(departamento = Departamentos) %>%
   arrange(departamento, year, .locale = "es") %>%
-  write_csv(file.path("data", "riesgo_departamento.csv"))
+  write_data("riesgo_departamento.csv")
 
-#-- Accidentes de tránsito
+# 7. Accidentes de tránsito -----------------------------------------------
 
-transito %>%
+read_raw("transito.csv") %>%
   longer_years("cantidad") %>%
-  rename(indicador = Indicador) %>%
-  select(year, indicador, cantidad) %>%
-  write_csv(file.path("data", "transito.csv"))
+  select(year, indicador = Indicador, cantidad) %>%
+  write_data("transito.csv")
 
-#-- Incautaciones de drogas
+# 8. Incautaciones de drogas ----------------------------------------------
 
-drogas %>%
+read_raw("drogas.csv") %>%
   longer_years("cantidad") %>%
   select(year, droga, unidad, cantidad) %>%
-  write_csv(file.path("data", "drogas.csv"))
+  write_data("drogas.csv")
 
-#-- Denuncias y casos resueltos por distrito de Managua
+# 9. Distritos de Managua -------------------------------------------------
 # Los distritos 9 y 10 aparecen en el anuario desde 2011; sus años anteriores
 # vienen vacíos y no se incluyen.
 
-managua %>%
+read_raw("managua_distritos.csv") %>%
   longer_years("cantidad") %>%
   filter(!is.na(cantidad)) %>%
   pivot_wider(names_from = medida, values_from = cantidad) %>%
   arrange(parse_number(distrito), year) %>%
   select(distrito, year, denuncias, resueltos) %>%
-  write_csv(file.path("data", "managua_distritos.csv"))
+  write_data("managua_distritos.csv")

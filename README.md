@@ -1,43 +1,39 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Estadísticas de la Policia Nacional de Nicaragua
+# Estadísticas de la Policía Nacional de Nicaragua
 
-## A nivel nacional
-
-Este repositorio contiene datos extraídos de los reportes de los
-Anuarios Estadísticos de la Policía Nacional de Nicaragua. Los anuarios
-desde 1998 al 2018 se pueden encontrar
+Este repositorio contiene datos extraídos de los Anuarios Estadísticos
+de la Policía Nacional de Nicaragua. Los anuarios de 1998 a 2018 se
+pueden encontrar
 [aquí](https://drive.google.com/file/d/1cndR83OTomj41gkOsre_57P9Hy8V3X6v/view?usp=sharing).
 El [Anuario Estadístico
 2021](https://www.policia.gob.ni/wp-content/uploads/2022/07/Anuario-Estad%C3%ADstico-Policial-2021.pdf)
 es el más reciente publicado por la Policía Nacional y contiene las
 series completas que usa este repositorio.
 
-## Información en la base de datos
+## Bases de datos
 
-Actualmente, este repositorio contiene siete bases de datos.
+El repositorio contiene siete bases de datos:
 
-1.  Nivel nacional con información desde el año 1980 al 2021.
-2.  Nivel departamental con información desde el año 2007 al 2021.
-3.  Policias por cada 100 mil habitantes y por cada 100 km² desde el año
-    2007 al 2021.
-4.  Riesgo de ser víctima de delito por departamento desde el año 2007
-    al 2021.
-5.  Accidentes de tránsito a nivel nacional desde el año 2007 al 2021.
-6.  Incautaciones de drogas a nivel nacional desde el año 1990 al 2021.
-7.  Denuncias y casos resueltos por distrito de Managua desde el año
-    2007 al 2021.
+1.  Nivel nacional, de 1980 a 2021.
+2.  Nivel departamental, de 2007 a 2021.
+3.  Policías por cada 100 mil habitantes y por cada 100 km², de 2007 a
+    2021.
+4.  Riesgo de ser víctima de delito por departamento, de 2007 a 2021.
+5.  Accidentes de tránsito a nivel nacional, de 2007 a 2021.
+6.  Incautaciones de drogas a nivel nacional, de 1990 a 2021.
+7.  Denuncias y casos resueltos por distrito de Managua, de 2007 a 2021.
 
-### A nivel Nacional
+### Nivel nacional
 
-Las siguientes variables se encuentran en este base de datos:
+Denuncias y casos resueltos por delito (tablas 1.1 y 1.2 del anuario).
 
 - `year`: Año.
-- `tipología`: Tipología del crimer cometido.
+- `tipologia`: Tipología del delito.
   - e.g., Delitos y faltas contra la vida, Delitos y faltas contra el
     patrimonio y el orden socioeconómico.
-- `delito`: Tipo del crimer comedito.
+- `delito`: Delito.
   - e.g., Asesinatos, Homicidios, etc.
 - `denuncias`: Denuncias.
 - `resueltos`: Casos resueltos.
@@ -46,7 +42,7 @@ Las siguientes variables se encuentran en este base de datos:
 data
 #> # A tibble: 588 × 5
 #>     year tipologia                       delito     denuncias resueltos
-#>    <int> <chr>                           <chr>          <int>     <int>
+#>    <dbl> <chr>                           <chr>          <dbl>     <dbl>
 #>  1  2021 Delitos y faltas contra la vida Asesinatos       121        86
 #>  2  2020 Delitos y faltas contra la vida Asesinatos       151       115
 #>  3  2019 Delitos y faltas contra la vida Asesinatos       152       116
@@ -60,16 +56,16 @@ data
 #> # ℹ 578 more rows
 ```
 
-### A nivel departamental
+### Nivel departamental
 
-A nivel departamental, las estadísticas se encuentra desde el año 2007
-al 2021, y las siguientes variables:
+Tasas por cada 100 mil habitantes, por departamento (tablas 1.20 a
+1.25).
 
+- `departamento`: Departamento.
 - `year`: Año.
-- `departamento`: Departamento
-- `variable`: Tipología del crimer cometido.
+- `variable`: Denuncias, Homicidios, Robos, Hurtos, Delitos sexuales o
+  Lesiones.
 - `cantidad`: Número por cada 100 mil habitantes.
-  - e.g., Denuncias, Homicidios, etc.
 
 ``` r
 data_dep
@@ -89,16 +85,14 @@ data_dep
 #> # ℹ 1,790 more rows
 ```
 
-### Número de policias por cada cien mil habitantes
+### Policías
 
-También es a nivel departamental y se encuentra información desde el año
-2007 al 2021 con las siguientes variables:
+Por departamento (tablas 1.35 y 1.33).
 
-- `year`: Año
-- `departamento`: Departamento
-- `policias`: Número de policias por cada cien mil habitantes (tabla
-  1.35 del anuario).
-- `policias_100km2`: Número de policias por cada 100 km² (tabla 1.33).
+- `departamento`: Departamento.
+- `year`: Año.
+- `policias`: Número de policías por cada 100 mil habitantes.
+- `policias_100km2`: Número de policías por cada 100 km².
 
 ``` r
 data_pol
@@ -120,28 +114,28 @@ data_pol
 
 ### Riesgo de ser víctima de delito
 
-Por departamento, desde el año 2007 al 2021 (tabla 1.26). Según el
-anuario, se lee como un delito por cada “X” cantidad de personas, así
-que un número más bajo indica más riesgo.
+Por departamento (tabla 1.26). Según el anuario, se lee como un delito
+por cada “X” cantidad de personas, así que un número más bajo indica más
+riesgo.
 
-- `departamento`: Departamento
-- `year`: Año
+- `departamento`: Departamento.
+- `year`: Año.
 - `personas_por_delito`: Número de personas por cada delito.
 
 ### Accidentes de tránsito
 
-A nivel nacional, desde el año 2007 al 2021 (tabla 1.37).
+A nivel nacional (tabla 1.37).
 
-- `year`: Año
+- `year`: Año.
 - `indicador`: Total de accidentes, fallecidos y lesionados, y cada uno
   por cada 100 mil habitantes.
 - `cantidad`: Valor del indicador.
 
 ### Incautaciones de drogas
 
-A nivel nacional, desde el año 1990 al 2021 (tabla 1.19).
+A nivel nacional (tabla 1.19).
 
-- `year`: Año
+- `year`: Año.
 - `droga`: Cocaína, Crack, Marihuana, Heroína o Éxtasis.
 - `unidad`: Kilogramos, Piedras, Plantas, Kilogramos de semilla o
   Pastillas.
@@ -149,27 +143,26 @@ A nivel nacional, desde el año 1990 al 2021 (tabla 1.19).
 
 ### Distritos de Managua
 
-Denuncias y casos resueltos por distrito policial de Managua, desde el
-año 2007 al 2021 (tabla 4.8). Los distritos 9 y 10 aparecen desde el año
-2011.
+Denuncias y casos resueltos por distrito policial de Managua (tabla
+4.8). Los distritos 9 y 10 aparecen desde 2011.
 
 - `distrito`: Distrito policial.
-- `year`: Año
+- `year`: Año.
 - `denuncias`: Denuncias.
 - `resueltos`: Casos resueltos.
 
 ## Descargar los datos
 
-Los datos se encuentran en la carpeta `/data` en formato
-[CSV](https://github.com/RRMaximiliano/policia-nacional-nic-stats/tree/master/data).
-Al acceder el link, deberán darle click derecho “guardar como / save
-as”.
+Los datos se encuentran en la carpeta
+[`data/`](https://github.com/RRMaximiliano/policia-nacional-nic-stats/tree/master/data)
+en formato CSV. Para descargar un archivo, haz clic derecho en su link y
+elige “guardar como / save as”.
 
 1.  [Nivel
     nacional](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats.csv)
 2.  [Nivel
     departamental](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/stats_departamento.csv)
-3.  [Policias](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/policias.csv)
+3.  [Policías](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/policias.csv)
 4.  [Riesgo de ser
     víctima](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/riesgo_departamento.csv)
 5.  [Accidentes de
@@ -179,22 +172,20 @@ as”.
 7.  [Distritos de
     Managua](https://raw.githubusercontent.com/RRMaximiliano/policia-nacional-nic-stats/master/data/managua_distritos.csv)
 
-## Caveats
+## Notas
 
-Los datos presentados en este repositorio son datos oficiales de la
-Policía Nacional de Nicaragua. La función de este repositorio es tener
-disponible los datos en un formato `tidy`.
+Los datos de este repositorio son datos oficiales de la Policía Nacional
+de Nicaragua. La función del repositorio es tenerlos disponibles en
+formato `tidy`.
 
-> Notas:
->
-> - Para el caso de Robo con violencia, no se presentan casos resueltos
->   de 1980 a 1989.
-> - En la tabla de drogas de 2006, el anuario usa punto como separador
->   de miles en las piedras de crack (2.780) y las plantas de marihuana
->   (136.964). Aquí aparecen como 2,780 y 136,964.
-> - Para Río San Juan, el anuario indica que las tasas son por cada 100
->   mil habitantes a partir de 2013. Las cifras de 2007 a 2012 no son
->   comparables con los años siguientes.
+- Para Robo con violencia, el anuario no presenta casos resueltos de
+  1980 a 1989.
+- En la tabla de drogas de 2006, el anuario usa punto como separador de
+  miles en las piedras de crack (2.780) y las plantas de marihuana
+  (136.964). Aquí aparecen como 2,780 y 136,964.
+- Para Río San Juan, el anuario indica que las tasas son por cada 100
+  mil habitantes a partir de 2013. Las cifras de 2007 a 2012 no son
+  comparables con los años siguientes.
 
 ## Actualizar los datos
 
@@ -213,6 +204,6 @@ nuevo, se cambian `anuario_year` y `anuario_url` en el primer script.
 
 ## Comentarios y sugerencias
 
-Para realizar comentarios o sugerencias sobre la base de datos puedes
-abrir un issue en este repositorio:
+Para comentarios o sugerencias sobre los datos, abre un issue en este
+repositorio:
 <https://github.com/rrmaximiliano/policia-nacional-nic-stats/issues>
